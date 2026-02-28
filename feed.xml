@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-02-28T06:26:36Z | 最后更新: 2026-02-28T06:26:39Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-28T04:43:12Z | 最后更新: 2026-02-28T04:53:17Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-02-28T03:43:55Z | 最后更新: 2026-02-28T03:43:58Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-02-28T03:14:14Z | 最后更新: 2026-02-28T03:14:18Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-02-28T02:32:55Z | 最后更新: 2026-02-28T02:32:58Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ybdt/evasion-hub</title>
+      <link>https://github.com/ybdt/evasion-hub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: AV/EDR Evasion | 最后推送: 2026-02-28T02:22:04Z | 最后更新: 2026-02-28T02:22:07Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ybdt/evasion-hub?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-02-28T01:26:48Z | 最后更新: 2026-02-28T01:26:52Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lyonzin/knowledge-rag</title>
+      <link>https://github.com/lyonzin/knowledge-rag</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Local RAG System for Claude Code - Hybrid search (Semantic + BM25) with MCP integration | 最后推送: 2026-02-28T00:32:16Z | 最后更新: 2026-02-28T03:01:59Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lyonzin/knowledge-rag?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: j3h4ck/UnknownKiller</title>
+      <link>https://github.com/j3h4ck/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: PoC exploit for the vulnerable (eb.sys or UnknownKiller.sys) – weaponized to kill protected EDR/AV processes via BYOVD. | 最后推送: 2026-02-27T12:17:50Z | 最后更新: 2026-02-28T06:25:47Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/j3h4ck/UnknownKiller?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-02-28T06:10:52Z</description>
+      <pubDate>2026-02-28T06:32:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1772260333</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: lyonzin/knowledge-rag</title>
       <link>https://github.com/lyonzin/knowledge-rag</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Local RAG System for Claude Code - Hybrid search (Semantic + BM25) with MCP integration | 最后推送: 2026-02-28T00:32:16Z | 最后更新: 2026-02-28T00:32:19Z</description>
@@ -27788,6 +27858,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 01:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:32:14 GMT</lastBuildDate>
   </channel>
 </rss>
