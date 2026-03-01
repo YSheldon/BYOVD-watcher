@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-03-01T04:50:16Z | 最后更新: 2026-03-01T04:50:20Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-01T05:43:23Z | 最后更新: 2026-03-01T05:43:26Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ThePhoenixAgency/AI-Pulse</title>
+      <link>https://github.com/ThePhoenixAgency/AI-Pulse</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated AI news aggregator from premium sources - Auto-updated with webhook, paginated display | 最后推送: 2026-03-01T04:19:19Z | 最后更新: 2026-03-01T04:19:18Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ThePhoenixAgency/AI-Pulse?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-01T03:44:52Z | 最后更新: 2026-03-01T03:44:56Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-01T03:15:58Z | 最后更新: 2026-03-01T03:16:01Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-03-01T01:56:32Z | 最后更新: 2026-03-01T01:56:36Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-02-28T22:00:11Z | 最后更新: 2026-03-01T04:07:58Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CyberSecurityUP/Red-Team-Exercises</title>
+      <link>https://github.com/CyberSecurityUP/Red-Team-Exercises</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-02-28T04:43:12Z | 最后更新: 2026-03-01T02:12:03Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CyberSecurityUP/Red-Team-Exercises?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xM0kht4r/VEN0m-Ransomware</title>
+      <link>https://github.com/xM0kht4r/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Fully undetectable and evasive ransomware written in Rust, leveraging a BYOVD technique to disable AV/EDR solutions on the infected systems. | 最后推送: 2026-02-24T11:48:49Z | 最后更新: 2026-03-01T06:04:33Z</description>
+      <pubDate>2026-03-01T06:40:21Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xM0kht4r/VEN0m-Ransomware?updated=1&amp;ts=1772347221</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Ekitji/siem</title>
       <link>https://github.com/Ekitji/siem</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Offensive SIEM | 最后推送: 2026-02-28T22:46:47Z | 最后更新: 2026-02-28T22:46:51Z</description>
@@ -28103,6 +28166,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 01:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:40:22 GMT</lastBuildDate>
   </channel>
 </rss>
