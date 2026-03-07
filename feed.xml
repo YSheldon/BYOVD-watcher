@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: ThePhoenixAgency/AI-Pulse</title>
+      <link>https://github.com/ThePhoenixAgency/AI-Pulse</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated AI news aggregator from premium sources - Auto-updated with webhook, paginated display | 最后推送: 2026-03-07T06:33:33Z | 最后更新: 2026-03-07T05:56:13Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ThePhoenixAgency/AI-Pulse?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-07T05:43:40Z | 最后更新: 2026-03-07T05:43:43Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-07T05:39:44Z | 最后更新: 2026-03-07T05:39:47Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jeffaf/cthaeh</title>
+      <link>https://github.com/jeffaf/cthaeh</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🌳 Automated triage scanner for Windows kernel driver vulnerabilities. Ghidra headless + heuristic scoring. | 最后推送: 2026-03-07T05:30:01Z | 最后更新: 2026-03-07T05:30:05Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jeffaf/cthaeh?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-07T03:21:18Z | 最后更新: 2026-03-07T03:21:21Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-07T02:35:54Z | 最后更新: 2026-03-07T02:35:57Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1772865271</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jharrisHalcyon/Halcyon_API</title>
+      <link>https://github.com/jharrisHalcyon/Halcyon_API</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: API scripts for use with Halcyon  | 最后推送: 2026-03-07T02:18:26Z | 最后更新: 2026-03-07T02:18:32Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jharrisHalcyon/Halcyon_API?updated=1&amp;ts=1772865272</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-03-07T01:41:01Z | 最后更新: 2026-03-07T01:41:05Z</description>
+      <pubDate>2026-03-07T06:34:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1772865272</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: samftggr/VEN0m-Ransomware</title>
       <link>https://github.com/samftggr/VEN0m-Ransomware</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-06T23:39:59Z | 最后更新: 2026-03-06T23:44:07Z</description>
@@ -29608,6 +29664,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 01:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 06:34:32 GMT</lastBuildDate>
   </channel>
 </rss>
