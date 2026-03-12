@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: 3xploit666/WatchDog_Killer</title>
+      <link>https://github.com/3xploit666/WatchDog_Killer</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-03-08T01:06:37Z | 最后更新: 2026-03-08T01:06:41Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/3xploit666/WatchDog_Killer?new=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-03-12T05:27:29Z | 最后更新: 2026-03-12T05:27:32Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-03-12T05:25:55Z | 最后更新: 2026-03-12T05:25:59Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-03-12T05:21:52Z | 最后更新: 2026-03-12T05:21:55Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DarkFunct/TK-CVE-Repo</title>
+      <link>https://github.com/DarkFunct/TK-CVE-Repo</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TK-CVE-Repo | 最后推送: 2026-03-12T03:35:42Z | 最后更新: 2026-03-12T06:10:52Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DarkFunct/TK-CVE-Repo?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: splintersfury/DriverAtlas</title>
+      <link>https://github.com/splintersfury/DriverAtlas</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel driver structural analysis toolkit — PE scanner, framework classifier, and corpus manager | 最后推送: 2026-03-12T02:54:07Z | 最后更新: 2026-03-12T02:54:11Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/splintersfury/DriverAtlas?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-03-12T02:47:02Z | 最后更新: 2026-03-12T02:47:06Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-03-11T13:17:13Z | 最后更新: 2026-03-12T05:59:43Z</description>
+      <pubDate>2026-03-12T06:48:52Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1773298132</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: R3LI4NT/Invasor</title>
       <link>https://github.com/R3LI4NT/Invasor</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: C# Ransomware Windows | 最后推送: 2026-03-11T21:06:43Z | 最后更新: 2026-03-11T21:12:37Z</description>
@@ -30952,6 +31008,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 01:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:48:52 GMT</lastBuildDate>
   </channel>
 </rss>
