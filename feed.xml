@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-04-10T18:14:12Z | 最后更新: 2026-04-10T18:14:16Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-04-10T17:30:22Z | 最后更新: 2026-04-10T17:31:01Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thomaswantstobeaskeleton/kernel-driver-example-and-research</title>
+      <link>https://github.com/thomaswantstobeaskeleton/kernel-driver-example-and-research</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: fortnite kernel driver, with research documents worthwhile | 最后推送: 2026-04-10T16:14:27Z | 最后更新: 2026-04-10T16:14:31Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thomaswantstobeaskeleton/kernel-driver-example-and-research?new=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-04-10T16:51:58Z | 最后更新: 2026-04-10T16:52:05Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ParadexMonitor</title>
+      <link>https://github.com/chen0430tw/ParadexMonitor</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-10T16:13:10Z | 最后更新: 2026-04-10T16:11:39Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ParadexMonitor?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: chen0430tw/ObMaster</title>
+      <link>https://github.com/chen0430tw/ObMaster</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Kernel introspection tool: EPROCESS walk, ObCallback map, PPL bypass, SYSTEM/TI elevation — all via RTCore64 BYOVD | 最后推送: 2026-04-10T15:51:47Z | 最后更新: 2026-04-10T15:51:50Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ObMaster?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-10T13:40:32Z | 最后更新: 2026-04-10T13:40:36Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-10T13:21:31Z | 最后更新: 2026-04-10T13:21:38Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-10T13:18:16Z | 最后更新: 2026-04-10T13:18:20Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-10T13:13:24Z | 最后更新: 2026-04-10T13:13:31Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1775846671</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-10T12:53:40Z | 最后更新: 2026-04-10T15:36:59Z</description>
+      <pubDate>2026-04-10T18:44:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1775846672</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: chen0430tw/ParadexMonitor</title>
       <link>https://github.com/chen0430tw/ParadexMonitor</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-04-10T12:49:58Z | 最后更新: 2026-04-10T12:50:02Z</description>
@@ -41102,6 +41179,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 13:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:44:32 GMT</lastBuildDate>
   </channel>
 </rss>
