@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: FzRsLLaSheR/EBKiller</title>
+      <link>https://github.com/FzRsLLaSheR/EBKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Research tool using a WHQL-signed Windows driver for kernel-level process control | 最后推送: 2026-04-15T12:02:26Z | 最后更新: 2026-04-15T12:02:30Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/EBKiller?new=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-15T13:05:53Z | 最后更新: 2026-04-15T13:05:59Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-04-15T12:13:39Z | 最后更新: 2026-04-15T12:13:50Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-04-15T11:17:07Z | 最后更新: 2026-04-15T11:17:10Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-04-15T11:15:33Z | 最后更新: 2026-04-15T11:15:37Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: wutang700/STProcessMonitorBYOVD</title>
+      <link>https://github.com/wutang700/STProcessMonitorBYOVD</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 🛠 Exploit and control Windows processes using CVE-2025-70795 and CVE-2026-0828 with driver-based termination tools. | 最后推送: 2026-04-15T11:11:41Z | 最后更新: 2026-04-15T11:11:45Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wutang700/STProcessMonitorBYOVD?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat Hunting based on KQL | 最后推送: 2026-04-15T10:14:10Z | 最后更新: 2026-04-15T10:35:35Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-04-15T08:00:02Z | 最后更新: 2026-04-15T08:00:06Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sai2fast/DsArk64</title>
+      <link>https://github.com/sai2fast/DsArk64</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BYOVD: DsArk64.sys (Qihoo 360) - WHQL-signed, process kill from ring 0 + kernel R/W | 最后推送: 2026-04-13T06:17:32Z | 最后更新: 2026-04-15T10:47:34Z</description>
+      <pubDate>2026-04-15T13:16:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sai2fast/DsArk64?updated=1&amp;ts=1776258960</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
       <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-04-15T06:52:58Z | 最后更新: 2026-04-15T06:53:05Z</description>
@@ -42817,6 +42880,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:16:00 GMT</lastBuildDate>
   </channel>
 </rss>
