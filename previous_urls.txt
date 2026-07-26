@@ -1,9 +1,15 @@
-https://github.com/nomi-sec/PoC-in-GitHub
-https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
 https://github.com/sardonyx001/awesome-stars
-https://github.com/gmh5225/awesome-game-security
+https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/zulloper/cve-poc
+https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner
+https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
 https://github.com/lukmannurhikma/UnknownKiller
 https://github.com/samftggr/VEN0m-Ransomware
+https://github.com/gmh5225/awesome-game-security
+https://github.com/0xsyr0/Cybersecurity-Glossary
+https://github.com/M5246/EXONERVE
+https://github.com/brucesongs/kali-claw
+https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
 https://github.com/xiangyuyan0106-spec/my-github-watcher
 https://github.com/dwgx/DWGX
 https://github.com/FzRsLLaSheR/TheWatcher
@@ -11,7 +17,6 @@ https://github.com/0xwarl0ck/ExploitPeek
 https://github.com/CroatiaSecurity/Behavedr
 https://github.com/kernullist/kn-live-dbg
 https://github.com/HotCakeX/Harden-Windows-Security
-https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
 https://github.com/v8k6b2jjps-prog/PPLcontrol
 https://github.com/416rehman/DeepZero
 https://github.com/i4Tools/i4Remote
@@ -21,10 +26,5 @@ https://github.com/truckli/infosec-abbrv
 https://github.com/grisuno/LazyOwn
 https://github.com/GhostTroops/TOP
 https://github.com/highdevian/combatroblox
-https://github.com/brucesongs/kali-claw
-https://github.com/zulloper/cve-poc
 https://github.com/n0qword/byovdmporium
 https://github.com/trezorrrlarps/Lolbindriverdetector
-https://github.com/magicsword-io/Magic-Atomics
-https://github.com/syd-kiwi/chrono-root
-https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral
