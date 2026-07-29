@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Salah-Code-Lab/RegFilter</title>
+      <link>https://github.com/Salah-Code-Lab/RegFilter</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Registry Filter | 最后推送: 2026-07-29T18:10:49Z | 最后更新: 2026-07-29T18:11:27Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Salah-Code-Lab/RegFilter?new=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thousaba/Sentryfy</title>
+      <link>https://github.com/thousaba/Sentryfy</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: An open-source SIEM monitoring project that aggregates alerts from multiple security platforms into a single dashboard and delivers instant notifications via Telegram. | 最后推送: 2026-07-29T18:01:02Z | 最后更新: 2026-07-29T18:03:32Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thousaba/Sentryfy?new=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: v8k6b2jjps-prog/PPLcontrol</title>
+      <link>https://github.com/v8k6b2jjps-prog/PPLcontrol</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: POC ps1 library to explore kernel option | 最后推送: 2026-07-29T15:54:40Z | 最后更新: 2026-07-29T15:55:40Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/v8k6b2jjps-prog/PPLcontrol?new=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-07-29T14:00:53Z | 最后更新: 2026-07-29T14:03:47Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-07-29T18:59:49Z | 最后更新: 2026-07-29T19:03:17Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-07-29T18:52:05Z | 最后更新: 2026-07-29T18:52:49Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-07-29T18:43:34Z | 最后更新: 2026-07-29T18:43:38Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CKCat/feed</title>
+      <link>https://github.com/CKCat/feed</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-07-29T18:12:22Z | 最后更新: 2026-07-29T18:15:01Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CKCat/feed?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-07-29T18:04:13Z | 最后更新: 2026-07-29T18:04:55Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-07-29T16:01:30Z | 最后更新: 2026-07-29T16:02:22Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-29T14:25:11Z | 最后更新: 2026-07-29T14:30:08Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: the-lust/Symbiote</title>
+      <link>https://github.com/the-lust/Symbiote</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ring-3: emulator and spoofing framework - educational / security research | 最后推送: 2026-07-29T14:16:09Z | 最后更新: 2026-07-29T14:22:57Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/the-lust/Symbiote?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-29T14:12:42Z | 最后更新: 2026-07-29T14:17:25Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sf0rzin/hinv</title>
+      <link>https://github.com/sf0rzin/hinv</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Hyper-Invisible kernel manual mapping loader &amp; VT-x/EPT stealth debugging framework. | 最后推送: 2026-07-29T12:06:25Z | 最后更新: 2026-07-29T16:10:40Z</description>
+      <pubDate>2026-07-29T19:06:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sf0rzin/hinv?updated=1&amp;ts=1785352014</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: sf0rzin/hinv</title>
       <link>https://github.com/sf0rzin/hinv</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Hyper-Invisible kernel manual mapping loader &amp; VT-x/EPT stealth debugging framework. | 最后推送: 2026-07-29T12:06:25Z | 最后更新: 2026-07-29T12:11:22Z</description>
@@ -85615,6 +85713,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 13:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:06:55 GMT</lastBuildDate>
   </channel>
 </rss>
