@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-01T02:01:16Z | 最后更新: 2026-08-01T02:01:14Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Cjayy77/Assay</title>
+      <link>https://github.com/Cjayy77/Assay</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-01T00:37:40Z | 最后更新: 2026-08-01T00:37:44Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Cjayy77/Assay?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: brucesongs/kali-claw</title>
+      <link>https://github.com/brucesongs/kali-claw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: kali-claw is a self-evolving security agent from the OpenClaw project. It operates 24/7 on Kali Linux, systematically learning and practicing penetration testing across 49 security domains. It thinks like a hacker — first principles, divergent thinking, assume breach — and acts like a senior engineer: direct, hands-on, results-driven. | 最后推送: 2026-07-31T21:58:26Z | 最后更新: 2026-07-31T21:58:31Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/brucesongs/kali-claw?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: RishiPlaysCodes/Selflearning</title>
+      <link>https://github.com/RishiPlaysCodes/Selflearning</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Complete Cybersecurity Masterclass (OSCP + CHFI + Linux Admin + Red Team + Exploit Dev + Forensics) — Zero to Ultra Pro Max. 48+ modules in easy Hinglish/English with real-life use cases &amp; practical scenarios. | 最后推送: 2026-07-31T21:06:19Z | 最后更新: 2026-07-31T21:09:19Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RishiPlaysCodes/Selflearning?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: ledgerbtc/Polonium-Driver-mapper</title>
+      <link>https://github.com/ledgerbtc/Polonium-Driver-mapper</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Polonium Driver mapper | 最后推送: 2026-07-31T21:03:32Z | 最后更新: 2026-08-01T01:12:13Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ledgerbtc/Polonium-Driver-mapper?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BOF collections | 最后推送: 2026-07-31T20:07:57Z | 最后更新: 2026-07-31T20:08:03Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?new=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-01T01:15:01Z | 最后更新: 2026-08-01T01:15:05Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-01T01:11:02Z | 最后更新: 2026-08-01T01:11:06Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-01T00:51:34Z | 最后更新: 2026-08-01T00:51:41Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-08-01T00:23:27Z | 最后更新: 2026-08-01T00:23:31Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-07-31T22:41:00Z | 最后更新: 2026-07-31T22:41:06Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-07-31T19:44:34Z | 最后更新: 2026-07-31T19:44:50Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-07-31T19:42:16Z | 最后更新: 2026-07-31T19:42:27Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-07-31T19:34:25Z | 最后更新: 2026-07-31T19:34:34Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development</title>
+      <link>https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated compilation of extensive resources dedicated to bootkit and rootkit development. | 最后推送: 2026-07-31T17:17:42Z | 最后更新: 2026-08-01T01:23:25Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 0rangec3t/Black-cat</title>
+      <link>https://github.com/0rangec3t/Black-cat</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill | 最后推送: 2026-07-31T09:38:37Z | 最后更新: 2026-08-01T02:01:14Z</description>
+      <pubDate>2026-08-01T02:23:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0rangec3t/Black-cat?updated=1&amp;ts=1785551003</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: yPin9/Learning-with-Claude</title>
       <link>https://github.com/yPin9/Learning-with-Claude</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-07-31T18:57:49Z | 最后更新: 2026-07-31T18:58:40Z</description>
@@ -86665,6 +86777,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:23:23 GMT</lastBuildDate>
   </channel>
 </rss>
