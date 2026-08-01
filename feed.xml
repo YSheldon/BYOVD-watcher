@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: AJahmadcyber/homelab-mdr</title>
+      <link>https://github.com/AJahmadcyber/homelab-mdr</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfolio project mapped to MITRE ATT&amp;CK | 最后推送: 2026-08-01T05:24:58Z | 最后更新: 2026-08-01T05:25:07Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AJahmadcyber/homelab-mdr?new=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-01T05:07:30Z | 最后更新: 2026-08-01T05:07:55Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-08-01T02:24:19Z | 最后更新: 2026-08-01T02:24:23Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-01T07:43:48Z | 最后更新: 2026-08-01T07:43:59Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-01T07:36:19Z | 最后更新: 2026-08-01T07:36:30Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-08-01T07:21:31Z | 最后更新: 2026-08-01T07:20:52Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Krishcalin/SIEM-Lite</title>
+      <link>https://github.com/Krishcalin/SIEM-Lite</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: An Open-source Security Information and Event Management (SIEM) solution blended with UEBA and TI Capabilities | 最后推送: 2026-08-01T07:17:15Z | 最后更新: 2026-08-01T07:18:15Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Krishcalin/SIEM-Lite?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-01T07:16:07Z | 最后更新: 2026-08-01T07:16:12Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-01T06:51:16Z | 最后更新: 2026-08-01T07:43:28Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-01T06:45:51Z | 最后更新: 2026-08-01T06:46:04Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yPin9/Learning-with-Claude</title>
+      <link>https://github.com/yPin9/Learning-with-Claude</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-01T06:19:53Z | 最后更新: 2026-08-01T06:20:18Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yPin9/Learning-with-Claude?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BOF collections | 最后推送: 2026-08-01T04:18:18Z | 最后更新: 2026-08-01T04:18:22Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-01T03:38:11Z | 最后更新: 2026-08-01T03:38:15Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-01T03:29:53Z | 最后更新: 2026-08-01T03:29:57Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-01T02:55:07Z | 最后更新: 2026-08-01T02:55:19Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development</title>
+      <link>https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated compilation of extensive resources dedicated to bootkit and rootkit development. | 最后推送: 2026-07-31T17:17:42Z | 最后更新: 2026-08-01T04:05:35Z</description>
+      <pubDate>2026-08-01T08:12:23Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development?updated=1&amp;ts=1785571943</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: CroatiaSecurity/Sentinel</title>
       <link>https://github.com/CroatiaSecurity/Sentinel</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-01T02:01:16Z | 最后更新: 2026-08-01T02:01:14Z</description>
@@ -86777,6 +86889,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 02:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:12:23 GMT</lastBuildDate>
   </channel>
 </rss>
