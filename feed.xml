@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: The-Sword-of-Constantine/UsingBYOVD</title>
+      <link>https://github.com/The-Sword-of-Constantine/UsingBYOVD</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It supports kernel-level operations including privilege escalation, physical memory R/W, and removing process protection via vulnerable drivers | 最后推送: 2026-08-02T06:35:13Z | 最后更新: 2026-08-02T06:35:36Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/The-Sword-of-Constantine/UsingBYOVD?new=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-08-02T05:47:59Z | 最后更新: 2026-08-02T05:48:33Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-08-02T07:33:28Z | 最后更新: 2026-08-02T07:32:50Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-02T07:19:40Z | 最后更新: 2026-08-02T07:19:52Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-02T07:13:44Z | 最后更新: 2026-08-02T07:13:58Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yPin9/Learning-with-Claude</title>
+      <link>https://github.com/yPin9/Learning-with-Claude</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-02T07:12:33Z | 最后更新: 2026-08-02T07:12:46Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yPin9/Learning-with-Claude?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-02T06:51:44Z | 最后更新: 2026-08-02T06:52:23Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-02T06:35:11Z | 最后更新: 2026-08-02T06:35:36Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: n0qword/byovdmporium</title>
+      <link>https://github.com/n0qword/byovdmporium</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Collection of researchs and pocs on BYOVD and kernel exploitation | 最后推送: 2026-08-02T04:08:50Z | 最后更新: 2026-08-02T04:28:00Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/n0qword/byovdmporium?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-02T03:38:14Z | 最后更新: 2026-08-02T03:38:24Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-02T03:29:44Z | 最后更新: 2026-08-02T03:29:58Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-02T02:53:49Z | 最后更新: 2026-08-02T02:53:53Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-08-02T02:21:51Z | 最后更新: 2026-08-02T02:21:56Z</description>
+      <pubDate>2026-08-02T08:14:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1785658440</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: 10fax01/HP_SWTOOLS_DRIVER</title>
       <link>https://github.com/10fax01/HP_SWTOOLS_DRIVER</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: HP_SWTOOLS_DRIVER a vulnerable driver | 最后推送: 2026-08-01T22:49:57Z | 最后更新: 2026-08-01T22:57:39Z</description>
@@ -87162,6 +87253,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 02:18:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:14:00 GMT</lastBuildDate>
   </channel>
 </rss>
