@@ -2,6 +2,139 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Cjayy77/Assay</title>
+      <link>https://github.com/Cjayy77/Assay</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-03T08:03:41Z | 最后更新: 2026-08-03T08:04:47Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Cjayy77/Assay?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Threat Hunting based on KQL | 最后推送: 2026-08-03T07:58:31Z | 最后更新: 2026-08-03T07:58:44Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: zshguy/tyrian-detection-pack</title>
+      <link>https://github.com/zshguy/tyrian-detection-pack</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Sigma detections for real ATT&amp;CK techniques, compiled to Wazuh, Splunk and Sentinel from one source. 67 rules, 64 techniques, Windows + Linux, ATT&amp;CK Navigator layer, MIT. | 最后推送: 2026-08-03T07:09:29Z | 最后更新: 2026-08-03T07:09:44Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zshguy/tyrian-detection-pack?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-08-03T06:40:45Z | 最后更新: 2026-08-03T06:40:51Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sharath-c-ws/TheGentlemen</title>
+      <link>https://github.com/sharath-c-ws/TheGentlemen</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-03T06:16:25Z | 最后更新: 2026-08-03T06:17:17Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sharath-c-ws/TheGentlemen?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 0rangec3t/Black-cat</title>
+      <link>https://github.com/0rangec3t/Black-cat</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill | 最后推送: 2026-08-03T05:37:34Z | 最后更新: 2026-08-03T09:13:58Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/0rangec3t/Black-cat?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrimsonGlory/wairz</title>
+      <link>https://github.com/CrimsonGlory/wairz</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A free (as in freedom) AI assisted firmware analysis tool | 最后推送: 2026-08-03T06:37:49Z | 最后更新: 2026-08-03T03:20:05Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrimsonGlory/wairz?new=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-03T08:44:08Z | 最后更新: 2026-08-03T08:45:52Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-03T08:23:48Z | 最后更新: 2026-08-03T08:54:30Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yPin9/Learning-with-Claude</title>
+      <link>https://github.com/yPin9/Learning-with-Claude</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-03T08:06:52Z | 最后更新: 2026-08-03T08:07:22Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yPin9/Learning-with-Claude?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-03T06:51:00Z | 最后更新: 2026-08-03T06:51:59Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-03T04:49:56Z | 最后更新: 2026-08-03T04:50:11Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-08-03T06:11:53Z | 最后更新: 2026-08-03T04:37:49Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-03T03:40:20Z | 最后更新: 2026-08-03T03:40:38Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-03T03:31:44Z | 最后更新: 2026-08-03T03:31:49Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BOF collections | 最后推送: 2026-08-03T03:09:36Z | 最后更新: 2026-08-03T03:09:39Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-03T02:55:12Z | 最后更新: 2026-08-03T02:55:33Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-08-03T02:24:03Z | 最后更新: 2026-08-03T02:39:47Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 416rehman/DeepZero</title>
+      <link>https://github.com/416rehman/DeepZero</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents. | 最后推送: 2026-08-02T15:25:17Z | 最后更新: 2026-08-03T06:50:40Z</description>
+      <pubDate>2026-08-03T09:34:00Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/DeepZero?updated=1&amp;ts=1785749640</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: kwpwn/mtgt</title>
       <link>https://github.com/kwpwn/mtgt</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-03T01:49:14Z | 最后更新: 2026-08-03T01:49:18Z</description>
@@ -87484,6 +87617,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 02:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:34:01 GMT</lastBuildDate>
   </channel>
 </rss>
