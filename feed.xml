@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: floppywiggler/directio64-disclosure</title>
+      <link>https://github.com/floppywiggler/directio64-disclosure</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-05T13:10:16Z | 最后更新: 2026-08-05T13:11:32Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/floppywiggler/directio64-disclosure?new=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: JFR-C/Windows-Penetration-Testing</title>
+      <link>https://github.com/JFR-C/Windows-Penetration-Testing</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Technical notes, AD pentest methodology, list of tools, scripts and Windows commands that are useful for internal penetration tests and assumed breach exercises (red teaming). | 最后推送: 2026-08-05T12:15:27Z | 最后更新: 2026-08-05T12:17:02Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JFR-C/Windows-Penetration-Testing?new=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: iaka0/info</title>
+      <link>https://github.com/iaka0/info</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-05T08:45:07Z | 最后更新: 2026-08-05T08:45:40Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iaka0/info?new=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-05T13:48:43Z | 最后更新: 2026-08-05T13:49:48Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-05T12:53:22Z | 最后更新: 2026-08-05T13:17:35Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-05T12:31:01Z | 最后更新: 2026-08-05T12:31:47Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: AJahmadcyber/homelab-mdr</title>
+      <link>https://github.com/AJahmadcyber/homelab-mdr</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfolio project mapped to MITRE ATT&amp;CK | 最后推送: 2026-08-05T11:44:26Z | 最后更新: 2026-08-05T11:44:34Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AJahmadcyber/homelab-mdr?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-05T11:34:05Z | 最后更新: 2026-08-05T11:34:13Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-08-05T11:23:44Z | 最后更新: 2026-08-05T11:23:48Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-05T08:46:44Z | 最后更新: 2026-08-05T08:48:15Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-05T08:43:59Z | 最后更新: 2026-08-05T08:44:27Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-05T08:37:55Z | 最后更新: 2026-08-05T08:39:30Z</description>
+      <pubDate>2026-08-05T13:56:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1785938192</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
       <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-05T08:13:24Z | 最后更新: 2026-08-05T08:14:47Z</description>
@@ -88415,6 +88499,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:56:32 GMT</lastBuildDate>
   </channel>
 </rss>

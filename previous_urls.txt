@@ -1,12 +1,16 @@
 https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner
-https://github.com/gmh5225/awesome-game-security
+https://github.com/floppywiggler/directio64-disclosure
 https://github.com/nomi-sec/PoC-in-GitHub
+https://github.com/gmh5225/awesome-game-security
+https://github.com/JFR-C/Windows-Penetration-Testing
+https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/sardonyx001/awesome-stars
-https://github.com/SecurityRonin/forensicnomicon
 https://github.com/HotCakeX/Harden-Windows-Security
 https://github.com/xiangyuyan0106-spec/my-github-watcher
+https://github.com/iaka0/info
 https://github.com/dwgx/DWGX
 https://github.com/FzRsLLaSheR/TheWatcher
+https://github.com/SecurityRonin/forensicnomicon
 https://github.com/GhostTroops/TOP
 https://github.com/Krishcalin/SIEM-Lite
 https://github.com/kwpwn/mtgt
@@ -14,7 +18,6 @@ https://github.com/moe-naj/htb_writeups
 https://github.com/Dragon-Lady/linux-supply-chain-guard
 https://github.com/zulloper/cve-poc
 https://github.com/syd-kiwi/chrono-root
-https://github.com/AJahmadcyber/homelab-mdr
 https://github.com/grisuno/LazyOwn
 https://github.com/HydraDragonAntivirus/HydraDragonAntivirus
 https://github.com/thousaba/Sentryfy
@@ -25,6 +28,3 @@ https://github.com/iShowLinux/bsideslv-2026-tuesday
 https://github.com/Whispergate/Sphinx
 https://github.com/10fax01/10fax01
 https://github.com/10fax01/BYOVD
-https://github.com/sharath-c-ws/TheGentlemen
-https://github.com/socialhate/Roblox-CheatChecker
-https://github.com/brucesongs/kali-claw
