@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-07T06:52:28Z | 最后更新: 2026-08-07T06:52:51Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-07T06:43:48Z | 最后更新: 2026-08-07T06:44:25Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-07T05:50:18Z | 最后更新: 2026-08-07T05:50:33Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-08-07T05:05:52Z | 最后更新: 2026-08-07T05:06:25Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-07T03:25:11Z | 最后更新: 2026-08-07T03:25:39Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-08-07T02:44:59Z | 最后更新: 2026-08-07T02:45:04Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-08-07T02:26:01Z | 最后更新: 2026-08-07T02:26:10Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-08-06T20:57:50Z | 最后更新: 2026-08-07T06:49:47Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: fsquirt/Hyperion</title>
+      <link>https://github.com/fsquirt/Hyperion</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 基于AI Agent的游戏反作弊平台 | 最后推送: 2026-08-06T12:07:35Z | 最后更新: 2026-08-07T06:38:57Z</description>
+      <pubDate>2026-08-07T07:06:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/fsquirt/Hyperion?updated=1&amp;ts=1786086411</guid>
+    </item>
+    <item>
       <title>BYOVD📢 更新: zulloper/cve-poc</title>
       <link>https://github.com/zulloper/cve-poc</link>
       <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-08-07T02:08:21Z | 最后更新: 2026-08-07T02:08:25Z</description>
@@ -89136,6 +89199,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 02:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:06:51 GMT</lastBuildDate>
   </channel>
 </rss>
