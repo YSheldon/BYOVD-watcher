@@ -2,6 +2,153 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Adityasingh230058/eyedetect</title>
+      <link>https://github.com/Adityasingh230058/eyedetect</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-14T18:13:12Z | 最后更新: 2026-08-14T18:15:14Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Adityasingh230058/eyedetect?new=1&amp;ts=1786733157</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-14T18:05:29Z | 最后更新: 2026-08-14T18:06:21Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?new=1&amp;ts=1786733157</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BOF collections | 最后推送: 2026-08-14T16:38:20Z | 最后更新: 2026-08-14T16:39:37Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?new=1&amp;ts=1786733157</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mkmk435/BYOKSH</title>
+      <link>https://github.com/mkmk435/BYOKSH</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-14T14:24:41Z | 最后更新: 2026-08-14T14:25:25Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mkmk435/BYOKSH?new=1&amp;ts=1786733157</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-08-14T14:16:29Z | 最后更新: 2026-08-14T14:17:58Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?new=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-08-14T14:15:51Z | 最后更新: 2026-08-14T14:17:06Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?new=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: franzjeger/framesage-win</title>
+      <link>https://github.com/franzjeger/framesage-win</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: FrameSage — better-than-Process-Lasso scheduler supervisor for Windows. Live process viewer with shell icons + tree view + Game Mode + AMD X3D awareness + ProBalance. Anti-cheat-clean, all user-mode Win32. Companion to process-lasso-linux-rs. | 最后推送: 2026-08-14T13:52:54Z | 最后更新: 2026-08-14T13:54:45Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/franzjeger/framesage-win?new=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GrijalvoMarcoLaboral/GrijalvoMarcoLaboral</title>
+      <link>https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-14T13:50:13Z | 最后更新: 2026-08-14T13:50:51Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GrijalvoMarcoLaboral/GrijalvoMarcoLaboral?new=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-14T18:43:46Z | 最后更新: 2026-08-14T18:43:52Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-14T18:33:07Z | 最后更新: 2026-08-14T18:33:36Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nguyentimmy/KQL-Detection-Engineering</title>
+      <link>https://github.com/nguyentimmy/KQL-Detection-Engineering</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-14T18:15:14Z | 最后更新: 2026-08-14T18:15:43Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/KQL-Detection-Engineering?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-14T18:08:10Z | 最后更新: 2026-08-14T18:08:50Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-08-14T17:52:37Z | 最后更新: 2026-08-14T17:52:41Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-14T17:04:51Z | 最后更新: 2026-08-14T17:06:27Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: christiand0797/downpour</title>
+      <link>https://github.com/christiand0797/downpour</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: my personal antivirus antimalware anti rat anti everything program work in progress | 最后推送: 2026-08-14T17:04:29Z | 最后更新: 2026-08-14T17:04:43Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/christiand0797/downpour?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: RobSealock/ctf-security-onion-rules</title>
+      <link>https://github.com/RobSealock/ctf-security-onion-rules</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-14T16:05:30Z | 最后更新: 2026-08-14T16:06:59Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RobSealock/ctf-security-onion-rules?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-08-14T15:21:26Z | 最后更新: 2026-08-14T16:26:27Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-14T13:22:00Z | 最后更新: 2026-08-14T13:23:34Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-14T13:17:43Z | 最后更新: 2026-08-14T13:19:04Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-14T13:08:54Z | 最后更新: 2026-08-14T13:10:12Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-14T12:53:07Z | 最后更新: 2026-08-14T16:23:30Z</description>
+      <pubDate>2026-08-14T18:45:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1786733158</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: 1906reblabs/Global-Cybersecurity-Weekly</title>
       <link>https://github.com/1906reblabs/Global-Cybersecurity-Weekly</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-14T10:12:20Z | 最后更新: 2026-08-14T10:12:28Z</description>
@@ -92412,6 +92559,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:45:58 GMT</lastBuildDate>
   </channel>
 </rss>
