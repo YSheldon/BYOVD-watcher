@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-15T10:30:52Z | 最后更新: 2026-08-15T10:31:17Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: rainfantry/cheyanne</title>
+      <link>https://github.com/rainfantry/cheyanne</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: C2 framework — C beacon, Python operator listener, Discord bridge, VNC callback, GPS tracking. Full kill chain. Authorized research only. | 最后推送: 2026-08-15T09:08:36Z | 最后更新: 2026-08-15T09:08:48Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rainfantry/cheyanne?new=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-15T12:17:26Z | 最后更新: 2026-08-15T12:17:48Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-15T12:15:09Z | 最后更新: 2026-08-15T12:15:39Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: leozzpahughes3787/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Alibi v2026 is a Windows forensic anti-cheat scanner for read-only threat hunting and detection, designed for portable PowerShell use and kept current in 2026. | 最后推送: 2026-08-15T12:08:53Z | 最后更新: 2026-08-15T12:09:02Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/leozzpahughes3787/alibi-v2026-windows-scanner?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-15T11:53:04Z | 最后更新: 2026-08-15T11:53:19Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: jason-carterrwup3261/alibi-v2026-windows-scanner</title>
+      <link>https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Portable Windows forensic scanner for anti-cheat investigations, designed to generate read-only evidence reports from a single run in version 2026. | 最后推送: 2026-08-15T11:23:58Z | 最后更新: 2026-08-15T11:24:37Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jason-carterrwup3261/alibi-v2026-windows-scanner?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-15T07:03:47Z | 最后更新: 2026-08-15T07:03:53Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sf0rzin/hinv</title>
+      <link>https://github.com/sf0rzin/hinv</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Hyper-Invisible kernel manual mapping loader &amp; VT-x/EPT stealth debugging framework. | 最后推送: 2026-08-15T06:59:13Z | 最后更新: 2026-08-15T06:59:28Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sf0rzin/hinv?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-15T06:52:10Z | 最后更新: 2026-08-15T09:12:50Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-15T06:50:12Z | 最后更新: 2026-08-15T06:50:23Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-15T06:46:54Z | 最后更新: 2026-08-15T06:47:16Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-15T06:39:39Z | 最后更新: 2026-08-15T06:39:48Z</description>
+      <pubDate>2026-08-15T12:27:39Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1786796859</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
       <link>https://github.com/killvxk/gitweekly</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-08-15T04:05:07Z | 最后更新: 2026-08-15T04:05:13Z</description>
@@ -92776,6 +92867,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:27:40 GMT</lastBuildDate>
   </channel>
 </rss>
