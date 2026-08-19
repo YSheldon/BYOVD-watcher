@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Ka-b0om/BYOVD-KKYUM.sys-poc</title>
+      <link>https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Technical analysis and PoC for MmCopyVirtualMemory primitive in vulnerable signed driver (LOLDrivers ID: 459c39a0-d6bd-4d3e-91ae-a701bb0b3198). Written in Rust. | 最后推送: 2026-08-19T18:05:18Z | 最后更新: 2026-08-19T18:05:18Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc?new=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/KQL-Detection-Engineering</title>
+      <link>https://github.com/nguyentimmy/KQL-Detection-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-19T16:14:23Z | 最后更新: 2026-08-19T16:27:50Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/KQL-Detection-Engineering?new=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thanhhao06/Artifact-Collector</title>
+      <link>https://github.com/thanhhao06/Artifact-Collector</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A lightweight tool for collecting, organizing, and viewing extracted artifact/report files with a clean HTML interface. | 最后推送: 2026-08-19T14:39:36Z | 最后更新: 2026-08-19T14:54:47Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thanhhao06/Artifact-Collector?new=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-08-19T18:14:46Z | 最后更新: 2026-08-19T18:16:31Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-08-19T18:02:18Z | 最后更新: 2026-08-19T18:07:51Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-19T18:25:00Z | 最后更新: 2026-08-19T18:03:36Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-19T17:41:09Z | 最后更新: 2026-08-19T17:48:38Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-19T17:38:36Z | 最后更新: 2026-08-19T17:42:13Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SeaOf0/dsh-redteam-model</title>
+      <link>https://github.com/SeaOf0/dsh-redteam-model</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，不定期完善逻辑与修复bug） | 最后推送: 2026-08-19T15:54:32Z | 最后更新: 2026-08-19T15:57:57Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SeaOf0/dsh-redteam-model?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-19T14:25:47Z | 最后更新: 2026-08-19T14:40:27Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: cihan-atas/shelf</title>
+      <link>https://github.com/cihan-atas/shelf</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Siber güvenlik döküman arşivleri için terminal tabanlı arama, indeksleme ve otomatik düzenleme aracı | 最后推送: 2026-08-19T13:38:55Z | 最后更新: 2026-08-19T13:45:55Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/cihan-atas/shelf?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-08-19T13:32:30Z | 最后更新: 2026-08-19T13:36:04Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-19T13:00:00Z | 最后更新: 2026-08-19T13:04:32Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-19T12:56:25Z | 最后更新: 2026-08-19T13:00:31Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-19T12:53:49Z | 最后更新: 2026-08-19T12:57:45Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-19T12:49:28Z | 最后更新: 2026-08-19T12:52:55Z</description>
+      <pubDate>2026-08-19T18:26:44Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787164004</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
       <link>https://github.com/enhansome/enhansome-game-security</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-19T12:32:51Z | 最后更新: 2026-08-19T12:36:02Z</description>
@@ -94631,6 +94743,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:26:45 GMT</lastBuildDate>
   </channel>
 </rss>
