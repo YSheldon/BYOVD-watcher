@@ -2,6 +2,132 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Pheelbert/pawnio-test</title>
+      <link>https://github.com/Pheelbert/pawnio-test</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-20T00:21:21Z | 最后更新: 2026-08-20T00:15:55Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Pheelbert/pawnio-test?new=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-08-19T23:58:15Z | 最后更新: 2026-08-19T23:58:20Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Hika-sec/Terminator_Killer</title>
+      <link>https://github.com/Hika-sec/Terminator_Killer</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Ring0-level process killer leveraging CVE-2026-0828 (BYOVD). Designed to demonstrate kernel-level process termination via a vulnerable signed driver, highlighting the security risks of Bring Your Own Vulnerable Driver attacks and the importance of driver trust, monitoring, and endpoint protection. | 最后推送: 2026-08-19T22:17:31Z | 最后更新: 2026-08-19T22:17:35Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Hika-sec/Terminator_Killer?new=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: armourinfosec/Offensive-Windows-Privilege-Escalation</title>
+      <link>https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Offensive Windows Privilege Escalation — hands-on study notes: enumeration &amp; methodology, service/scheduled-task misconfigs, UAC bypass, token-privilege abuse, the potato family, kernel exploits, and credential mining. Each technique with detection &amp; defenses. CC BY 4.0. | 最后推送: 2026-08-19T22:04:56Z | 最后更新: 2026-08-19T22:06:20Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation?new=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-08-20T00:40:23Z | 最后更新: 2026-08-20T00:40:45Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-20T00:39:04Z | 最后更新: 2026-08-20T00:39:29Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-20T00:38:39Z | 最后更新: 2026-08-20T00:38:52Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: rix4uni/medium-writeups</title>
+      <link>https://github.com/rix4uni/medium-writeups</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: This repository updates latest Bug Bounty medium writeups every 10 minutes, https://readmedium.com/Medium_URL, https://archive.ph/Medium_URL, https://freedium.cfd/Medium_URL | 最后推送: 2026-08-20T00:28:33Z | 最后更新: 2026-08-20T00:28:44Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/rix4uni/medium-writeups?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: un5eeny0t/Cyber-Write-Up-Fetcher</title>
+      <link>https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Feed about Cybersecurity💻 | 最后推送: 2026-08-20T00:00:00Z | 最后更新: 2026-08-20T00:00:05Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/un5eeny0t/Cyber-Write-Up-Fetcher?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hsamnguyen/lastest-update-bounty</title>
+      <link>https://github.com/hsamnguyen/lastest-update-bounty</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-19T23:59:21Z | 最后更新: 2026-08-19T23:59:32Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hsamnguyen/lastest-update-bounty?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-19T23:57:46Z | 最后更新: 2026-08-19T23:58:06Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-19T22:11:19Z | 最后更新: 2026-08-19T22:10:20Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: fsquirt/Hyperion</title>
+      <link>https://github.com/fsquirt/Hyperion</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 基于AI Agent的游戏反作弊平台 | 最后推送: 2026-08-19T20:57:43Z | 最后更新: 2026-08-19T20:58:07Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/fsquirt/Hyperion?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ka-b0om/BYOVD-KKYUM.sys-poc</title>
+      <link>https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Technical analysis and PoC for MmCopyVirtualMemory primitive in vulnerable signed driver (LOLDrivers ID: 459c39a0-d6bd-4d3e-91ae-a701bb0b3198). Written in Rust. | 最后推送: 2026-08-19T19:47:00Z | 最后更新: 2026-08-19T19:47:14Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-20T00:32:10Z | 最后更新: 2026-08-19T18:53:52Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-19T18:45:26Z | 最后更新: 2026-08-19T18:46:48Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dwgx/DWGX</title>
+      <link>https://github.com/dwgx/DWGX</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: profile · dwgx.menu | 最后推送: 2026-08-19T18:41:17Z | 最后更新: 2026-08-19T18:41:58Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/DWGX?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-19T18:36:38Z | 最后更新: 2026-08-19T18:39:55Z</description>
+      <pubDate>2026-08-20T00:57:07Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787187427</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Ka-b0om/BYOVD-KKYUM.sys-poc</title>
       <link>https://github.com/Ka-b0om/BYOVD-KKYUM.sys-poc</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Technical analysis and PoC for MmCopyVirtualMemory primitive in vulnerable signed driver (LOLDrivers ID: 459c39a0-d6bd-4d3e-91ae-a701bb0b3198). Written in Rust. | 最后推送: 2026-08-19T18:05:18Z | 最后更新: 2026-08-19T18:05:18Z</description>
@@ -94743,6 +94869,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:57:08 GMT</lastBuildDate>
   </channel>
 </rss>
