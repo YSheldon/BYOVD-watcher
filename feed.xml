@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Ekitji/siem</title>
+      <link>https://github.com/Ekitji/siem</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Offensive SIEM | 最后推送: 2026-08-24T10:50:37Z | 最后更新: 2026-08-24T10:50:53Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ekitji/siem?new=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: JameZUK/Arkana</title>
+      <link>https://github.com/JameZUK/Arkana</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Arkana - Your entire malware analysis lab, behind one AI prompt. 250+ MCP tools for binary analysis with Claude Code or other MCP | 最后推送: 2026-08-24T09:25:02Z | 最后更新: 2026-08-24T09:25:07Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JameZUK/Arkana?new=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MaikCyberSec/Threat-Hunting-</title>
+      <link>https://github.com/MaikCyberSec/Threat-Hunting-</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Threat Hunting based on KQL | 最后推送: 2026-08-24T08:09:59Z | 最后更新: 2026-08-24T08:11:21Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MaikCyberSec/Threat-Hunting-?new=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BOF collections | 最后推送: 2026-08-24T07:44:08Z | 最后更新: 2026-08-24T07:44:33Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?new=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: user23333/kaka</title>
+      <link>https://github.com/user23333/kaka</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: For personal use only | 最后推送: 2026-08-24T12:32:50Z | 最后更新: 2026-08-24T12:37:21Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/user23333/kaka?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-24T12:04:57Z | 最后更新: 2026-08-24T12:10:31Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-24T12:03:32Z | 最后更新: 2026-08-24T12:03:49Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-24T12:35:30Z | 最后更新: 2026-08-24T11:59:10Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-24T11:42:32Z | 最后更新: 2026-08-24T11:42:47Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-24T10:44:42Z | 最后更新: 2026-08-24T10:49:01Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-08-24T09:52:05Z | 最后更新: 2026-08-24T09:53:57Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-24T08:44:57Z | 最后更新: 2026-08-24T08:46:35Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: z0ltrak/MalWhere</title>
+      <link>https://github.com/z0ltrak/MalWhere</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-24T07:23:49Z | 最后更新: 2026-08-24T07:24:50Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/z0ltrak/MalWhere?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-24T07:11:47Z | 最后更新: 2026-08-24T07:13:14Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-24T07:00:11Z | 最后更新: 2026-08-24T07:01:01Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yj94/YoneSysHunter</title>
+      <link>https://github.com/yj94/YoneSysHunter</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Advanced BYOVD Static Analysis Engine for Windows Kernel Drivers | 最后推送: 2026-08-23T14:07:23Z | 最后更新: 2026-08-24T07:21:44Z</description>
+      <pubDate>2026-08-24T12:38:49Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yj94/YoneSysHunter?updated=1&amp;ts=1787575129</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: kernullist/kn-live-dbg</title>
       <link>https://github.com/kernullist/kn-live-dbg</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-24T06:33:19Z | 最后更新: 2026-08-24T06:33:16Z</description>
@@ -96773,6 +96885,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:38:49 GMT</lastBuildDate>
   </channel>
 </rss>
