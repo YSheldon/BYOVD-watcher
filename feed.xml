@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-08-24T06:33:19Z | 最后更新: 2026-08-24T06:33:16Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?new=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CroatiaSecurity/Behavedr</title>
+      <link>https://github.com/CroatiaSecurity/Behavedr</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Multi-platform behavioral EDR: Windows, Linux, macOS, Android, iOS. | 最后推送: 2026-08-24T03:51:26Z | 最后更新: 2026-08-24T03:50:05Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Behavedr?new=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: qiaozhiyi/nyx-ci-test</title>
+      <link>https://github.com/qiaozhiyi/nyx-ci-test</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Temporary CI testing repo — will be wiped after tests complete. | 最后推送: 2026-08-24T02:16:03Z | 最后更新: 2026-08-24T02:16:14Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/qiaozhiyi/nyx-ci-test?new=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: user23333/kaka</title>
+      <link>https://github.com/user23333/kaka</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: For personal use only | 最后推送: 2026-08-24T06:25:00Z | 最后更新: 2026-08-24T06:26:32Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/user23333/kaka?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-24T06:12:47Z | 最后更新: 2026-08-24T06:12:51Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-24T06:10:00Z | 最后更新: 2026-08-24T06:10:45Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-08-24T04:58:46Z | 最后更新: 2026-08-24T04:58:50Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-08-24T04:58:15Z | 最后更新: 2026-08-24T04:59:11Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-08-24T04:51:11Z | 最后更新: 2026-08-24T04:52:00Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-08-24T04:03:04Z | 最后更新: 2026-08-24T04:04:00Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-24T04:01:38Z | 最后更新: 2026-08-24T04:02:23Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kwpwn/mtgt</title>
+      <link>https://github.com/kwpwn/mtgt</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-24T02:21:32Z | 最后更新: 2026-08-24T02:21:36Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kwpwn/mtgt?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-24T01:48:15Z | 最后更新: 2026-08-24T01:48:21Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-24T01:21:54Z | 最后更新: 2026-08-24T01:21:58Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-08-24T00:59:52Z | 最后更新: 2026-08-24T00:59:59Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-08-23T18:52:33Z | 最后更新: 2026-08-24T05:51:52Z</description>
+      <pubDate>2026-08-24T06:45:58Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1787553958</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: user23333/kaka</title>
       <link>https://github.com/user23333/kaka</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: For personal use only | 最后推送: 2026-08-23T23:49:12Z | 最后更新: 2026-08-23T23:49:22Z</description>
@@ -96661,6 +96773,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:45:58 GMT</lastBuildDate>
   </channel>
 </rss>
