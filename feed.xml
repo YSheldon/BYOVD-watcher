@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: h3ad-sec/H3AD-LEARN</title>
+      <link>https://github.com/h3ad-sec/H3AD-LEARN</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: H3AD-SEC Security Training Platform. Modular learning for SOC analysts and detection engineers. | 最后推送: 2026-08-30T20:07:31Z | 最后更新: 2026-08-30T20:07:56Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/h3ad-sec/H3AD-LEARN?new=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: omerbugrae/Neutron</title>
+      <link>https://github.com/omerbugrae/Neutron</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-08-30T19:48:43Z | 最后更新: 2026-08-30T19:49:02Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/omerbugrae/Neutron?new=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-08-30T20:14:04Z | 最后更新: 2026-08-30T20:15:19Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: v8k6b2jjps-prog/PPLcontrol</title>
+      <link>https://github.com/v8k6b2jjps-prog/PPLcontrol</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: POC ps1 library to explore kernel option | 最后推送: 2026-08-30T20:10:57Z | 最后更新: 2026-08-30T20:12:54Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/v8k6b2jjps-prog/PPLcontrol?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-08-30T19:36:57Z | 最后更新: 2026-08-30T19:37:09Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-08-30T19:25:35Z | 最后更新: 2026-08-30T19:25:45Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: metalx1993/loldex</title>
+      <link>https://github.com/metalx1993/loldex</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Unified index of living-off-the-land techniques across Linux, Windows &amp; Active Directory — aggregating GTFOBins, LOLBAS, LOLAD &amp; WADComs. | 最后推送: 2026-08-30T19:00:44Z | 最后更新: 2026-08-30T19:01:00Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/metalx1993/loldex?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JacksonTai2007/cc-unlock</title>
+      <link>https://github.com/JacksonTai2007/cc-unlock</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-08-30T18:49:09Z | 最后更新: 2026-08-30T18:50:00Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JacksonTai2007/cc-unlock?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-08-30T18:10:24Z | 最后更新: 2026-08-30T18:47:57Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-08-30T16:33:04Z | 最后更新: 2026-08-30T16:33:09Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-08-30T16:14:07Z | 最后更新: 2026-08-30T16:15:05Z</description>
+      <pubDate>2026-08-30T20:26:17Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788121577</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: tanjiti/sec_profile</title>
       <link>https://github.com/tanjiti/sec_profile</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等) | 最后推送: 2026-08-30T15:14:23Z | 最后更新: 2026-08-30T15:15:10Z</description>
@@ -99062,6 +99139,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:26:17 GMT</lastBuildDate>
   </channel>
 </rss>
