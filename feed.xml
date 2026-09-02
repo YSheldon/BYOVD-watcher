@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/KQL-Detection-Engineering</title>
+      <link>https://github.com/nguyentimmy/KQL-Detection-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-09-02T17:45:05Z | 最后更新: 2026-09-02T17:45:09Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/KQL-Detection-Engineering?new=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Hayliy/naixi-desktop</title>
+      <link>https://github.com/Hayliy/naixi-desktop</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 奶昔桌面智能体，源于自研奶昔agent的桌面端剥离而来 | 最后推送: 2026-09-02T17:04:38Z | 最后更新: 2026-09-02T17:04:03Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Hayliy/naixi-desktop?new=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-02T19:49:49Z | 最后更新: 2026-09-02T19:50:01Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-02T19:02:04Z | 最后更新: 2026-09-02T19:19:31Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-02T18:24:23Z | 最后更新: 2026-09-02T18:25:06Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mukendi/DetectorOne</title>
+      <link>https://github.com/mukendi/DetectorOne</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-02T18:14:25Z | 最后更新: 2026-09-02T18:20:33Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mukendi/DetectorOne?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-02T16:27:12Z | 最后更新: 2026-09-02T16:48:18Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-02T16:08:28Z | 最后更新: 2026-09-02T16:21:11Z</description>
+      <pubDate>2026-09-02T20:26:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788380769</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: mukendi/Virunga</title>
       <link>https://github.com/mukendi/Virunga</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-02T15:12:06Z | 最后更新: 2026-09-02T15:20:58Z</description>
@@ -100049,6 +100105,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:26:09 GMT</lastBuildDate>
   </channel>
 </rss>
