@@ -2,6 +2,125 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Ander-Index/DMT3-Toolchain</title>
+      <link>https://github.com/Ander-Index/DMT3-Toolchain</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DMT3 你懂的程序 | 最后推送: 2026-09-03T02:25:09Z | 最后更新: 2026-09-03T02:26:17Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ander-Index/DMT3-Toolchain?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-09-02T23:30:36Z | 最后更新: 2026-09-02T23:30:46Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/razer-boomslang-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/razer-boomslang-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Kernel stack buffer overflow in Razer boomslang.sys (CWE-121), local privilege escalation reachable by any user. Verified on Windows 11. | 最后推送: 2026-09-02T20:39:16Z | 最后更新: 2026-09-02T20:40:15Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/razer-boomslang-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/razer-habu-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/razer-habu-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Kernel stack buffer overflow in Razer habu.sys (CWE-121), local privilege escalation reachable by any user. Verified on Windows 11. | 最后推送: 2026-09-02T20:38:14Z | 最后更新: 2026-09-02T20:39:50Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/razer-habu-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/razer-lycosa-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/razer-lycosa-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Two kernel vulnerabilities in Razer Lycosa.sys (CWE-125 memory disclosure + CWE-121 stack overflow) chained to local privilege escalation. Coordinated-disclosure materials, verified on Windows 11. | 最后推送: 2026-09-02T20:37:14Z | 最后更新: 2026-09-02T20:37:25Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/razer-lycosa-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/razer-protype-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/razer-protype-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Two kernel vulnerabilities in Razer Protype.sys (CWE-125 disclosure + CWE-121 stack overflow) chained to local privilege escalation. Verified on Windows 11. | 最后推送: 2026-09-02T20:36:17Z | 最后更新: 2026-09-02T20:49:31Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/razer-protype-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/roccat-kone-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/roccat-kone-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Kernel stack buffer overflow in ROCCAT Kone.sys (CWE-121), local privilege escalation reachable by any user. Verified on Windows 11. | 最后推送: 2026-09-02T20:31:49Z | 最后更新: 2026-09-02T20:32:23Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/roccat-kone-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 416rehman/razer-copperhead-kernel-lpe-BYOVD-Vulnerability-PoC</title>
+      <link>https://github.com/416rehman/razer-copperhead-kernel-lpe-BYOVD-Vulnerability-PoC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Kernel stack buffer overflow in Razer copperhd.sys (CWE-121), local privilege escalation reachable by any user. Verified on Windows 11. | 最后推送: 2026-09-02T20:29:58Z | 最后更新: 2026-09-02T20:43:09Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/416rehman/razer-copperhead-kernel-lpe-BYOVD-Vulnerability-PoC?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Ohcmon/Harden-Windows-Security</title>
+      <link>https://github.com/Ohcmon/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-02T14:24:23Z | 最后更新: 2026-09-02T22:52:25Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ohcmon/Harden-Windows-Security?new=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-09-03T02:06:43Z | 最后更新: 2026-09-03T02:06:50Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-03T01:46:42Z | 最后更新: 2026-09-03T01:47:43Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-03T01:19:36Z | 最后更新: 2026-09-03T01:19:39Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-03T00:04:53Z | 最后更新: 2026-09-03T00:49:09Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-02T21:04:17Z | 最后更新: 2026-09-02T21:04:23Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-02T20:55:20Z | 最后更新: 2026-09-02T20:55:35Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-02T20:39:46Z | 最后更新: 2026-09-02T20:51:23Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-02T14:24:23Z | 最后更新: 2026-09-02T22:28:56Z</description>
+      <pubDate>2026-09-03T02:40:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1788403218</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: nguyentimmy/KQL-Detection-Engineering</title>
       <link>https://github.com/nguyentimmy/KQL-Detection-Engineering</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-09-02T17:45:05Z | 最后更新: 2026-09-02T17:45:09Z</description>
@@ -100105,6 +100224,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 02:40:18 GMT</lastBuildDate>
   </channel>
 </rss>
