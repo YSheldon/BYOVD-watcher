@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: h3ad-sec/H3AD-LEARN</title>
+      <link>https://github.com/h3ad-sec/H3AD-LEARN</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: H3AD-SEC Security Training Platform. Modular learning for SOC analysts and detection engineers. | 最后推送: 2026-09-03T18:31:11Z | 最后更新: 2026-09-03T18:32:35Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/h3ad-sec/H3AD-LEARN?new=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: crimsonvortex69/HoneyDriver</title>
+      <link>https://github.com/crimsonvortex69/HoneyDriver</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repo consist of all required and important files for working and deployment of the project | 最后推送: 2026-09-03T18:27:46Z | 最后更新: 2026-09-03T18:27:51Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/crimsonvortex69/HoneyDriver?new=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-03T19:59:04Z | 最后更新: 2026-09-03T20:03:19Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nguyentimmy/KQL-Detection-Engineering</title>
+      <link>https://github.com/nguyentimmy/KQL-Detection-Engineering</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-09-03T19:49:49Z | 最后更新: 2026-09-03T19:51:12Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/KQL-Detection-Engineering?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-03T19:48:31Z | 最后更新: 2026-09-03T19:50:43Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: AJahmadcyber/homelab-mdr</title>
+      <link>https://github.com/AJahmadcyber/homelab-mdr</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfolio project mapped to MITRE ATT&amp;CK | 最后推送: 2026-09-03T19:17:22Z | 最后更新: 2026-09-03T19:21:34Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AJahmadcyber/homelab-mdr?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-03T18:06:11Z | 最后更新: 2026-09-03T18:13:44Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-03T17:52:41Z | 最后更新: 2026-09-03T17:53:23Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-03T16:17:16Z | 最后更新: 2026-09-03T16:22:09Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-03T15:57:47Z | 最后更新: 2026-09-03T15:59:39Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ander-Index/DMT3-Toolchain</title>
+      <link>https://github.com/Ander-Index/DMT3-Toolchain</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DMT3 你懂的程序 | 最后推送: 2026-09-03T04:21:04Z | 最后更新: 2026-09-03T15:44:04Z</description>
+      <pubDate>2026-09-03T20:24:55Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ander-Index/DMT3-Toolchain?updated=1&amp;ts=1788467095</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: AJahmadcyber/homelab-mdr</title>
       <link>https://github.com/AJahmadcyber/homelab-mdr</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Open-source MDR home lab — Wazuh, TheHive, Cortex, n8n, pfSense+Suricata. Portfolio project mapped to MITRE ATT&amp;CK | 最后推送: 2026-09-03T15:38:12Z | 最后更新: 2026-09-03T15:38:53Z</description>
@@ -100420,6 +100497,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:24:56 GMT</lastBuildDate>
   </channel>
 </rss>
