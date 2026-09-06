@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Anji17-hacker/PrecursorGuard</title>
+      <link>https://github.com/Anji17-hacker/PrecursorGuard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows ransomware and BYOVD early detection platform using Sysmon, Machine Learning and behavioral analytics. | 最后推送: 2026-09-06T19:12:21Z | 最后更新: 2026-09-06T19:18:38Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Anji17-hacker/PrecursorGuard?new=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: splintersfury/KernelSight</title>
+      <link>https://github.com/splintersfury/KernelSight</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, grounded in real CVEs with build numbers and PoC references | 最后推送: 2026-09-06T17:44:07Z | 最后更新: 2026-09-06T17:44:10Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/splintersfury/KernelSight?new=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: yj94/YoneSysHunter</title>
+      <link>https://github.com/yj94/YoneSysHunter</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Advanced BYOVD Static Analysis Engine for Windows Kernel Drivers | 最后推送: 2026-09-06T15:23:10Z | 最后更新: 2026-09-06T15:23:13Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yj94/YoneSysHunter?new=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-06T19:46:30Z | 最后更新: 2026-09-06T19:46:33Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-09-06T19:34:39Z | 最后更新: 2026-09-06T19:34:42Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-06T19:22:57Z | 最后更新: 2026-09-06T19:23:07Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788724459</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-06T18:55:11Z | 最后更新: 2026-09-06T18:55:15Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-06T18:41:53Z | 最后更新: 2026-09-06T19:17:41Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: CroatiaSecurity/Sentinel</title>
+      <link>https://github.com/CroatiaSecurity/Sentinel</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Userland IDS/EDR for Windows — behavioral threat detection and response | 最后推送: 2026-09-06T19:30:28Z | 最后更新: 2026-09-06T18:14:38Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CroatiaSecurity/Sentinel?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-06T15:21:32Z | 最后更新: 2026-09-06T15:21:36Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-06T15:05:19Z | 最后更新: 2026-09-06T15:05:34Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: S12cybersecurity/HandleRedirect</title>
+      <link>https://github.com/S12cybersecurity/HandleRedirect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Handle Redirect via BYOVD Kernel Read/Write | 最后推送: 2026-09-06T13:29:43Z | 最后更新: 2026-09-06T18:12:04Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/S12cybersecurity/HandleRedirect?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: S12cybersecurity/PIDMutation</title>
+      <link>https://github.com/S12cybersecurity/PIDMutation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Process ID Mutator via BYOVD Kernel R/W | 最后推送: 2026-09-06T13:07:14Z | 最后更新: 2026-09-06T19:06:22Z</description>
+      <pubDate>2026-09-06T19:54:19Z</pubDate>
+      <guid isPermaLink="true">https://github.com/S12cybersecurity/PIDMutation?updated=1&amp;ts=1788724460</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: S12cybersecurity/HandleRedirect</title>
       <link>https://github.com/S12cybersecurity/HandleRedirect</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Handle Redirect via BYOVD Kernel Read/Write | 最后推送: 2026-09-06T13:29:43Z | 最后更新: 2026-09-06T13:38:19Z</description>
@@ -101596,6 +101687,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:54:20 GMT</lastBuildDate>
   </channel>
 </rss>
