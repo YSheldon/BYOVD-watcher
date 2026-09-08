@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Gorstak-Zadar/Sentinel</title>
+      <link>https://github.com/Gorstak-Zadar/Sentinel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-08T15:15:15Z | 最后更新: 2026-09-08T15:20:54Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/Sentinel?new=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Gorstak-Zadar/Behavedr</title>
+      <link>https://github.com/Gorstak-Zadar/Behavedr</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-08T15:14:58Z | 最后更新: 2026-09-08T15:14:50Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gorstak-Zadar/Behavedr?new=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mamanwhide/Batitong</title>
+      <link>https://github.com/mamanwhide/Batitong</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Batitong is an open-source platform that automates offsec by orchestrating large language model (LLM) agents over a controlled tool-execution layer. | 最后推送: 2026-09-08T11:16:56Z | 最后更新: 2026-09-08T11:17:34Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mamanwhide/Batitong?new=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: wwwab123/Sxav_ZwDeleteFile_BYOVD</title>
+      <link>https://github.com/wwwab123/Sxav_ZwDeleteFile_BYOVD</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-08T11:07:55Z | 最后更新: 2026-09-08T11:08:41Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wwwab123/Sxav_ZwDeleteFile_BYOVD?new=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: RootCipherX/cybersecurity-sysmon-threat-hunting-guide</title>
+      <link>https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Enterprise-grade Blue Team reference and detection engineering guide covering Microsoft Sysinternals Sysmon Event IDs, threat hunting telemetry, and SIEM hunting rules. | 最后推送: 2026-09-08T10:42:08Z | 最后更新: 2026-09-08T10:42:54Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RootCipherX/cybersecurity-sysmon-threat-hunting-guide?new=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-08T14:31:31Z | 最后更新: 2026-09-08T14:36:53Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: DawidTrochim/VulnSeek</title>
+      <link>https://github.com/DawidTrochim/VulnSeek</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Read-only Windows privilege-escalation scanner in C#/.NET 8. Uses native AccessCheck against your own token to prove what you can actually exploit, cutting false positives. Gives a ranked escalation plan with MITRE mapping, detection-risk hints, credential-loot targets, and an offline HTML dashboard. Single self-contained exe. | 最后推送: 2026-09-08T14:25:05Z | 最后更新: 2026-09-08T14:30:47Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/DawidTrochim/VulnSeek?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-08T14:22:40Z | 最后更新: 2026-09-08T14:27:00Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-09-08T15:20:59Z | 最后更新: 2026-09-08T14:18:06Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-08T13:49:01Z | 最后更新: 2026-09-08T13:52:53Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-08T13:08:21Z | 最后更新: 2026-09-08T13:11:04Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-08T12:57:26Z | 最后更新: 2026-09-08T12:58:31Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-09-08T11:26:07Z | 最后更新: 2026-09-08T11:27:34Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-08T11:04:43Z | 最后更新: 2026-09-08T11:05:40Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-08T10:47:23Z | 最后更新: 2026-09-08T10:47:39Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kj299/doze_sec</title>
+      <link>https://github.com/kj299/doze_sec</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-08T10:28:54Z | 最后更新: 2026-09-08T10:28:59Z</description>
+      <pubDate>2026-09-08T15:53:09Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kj299/doze_sec?updated=1&amp;ts=1788882789</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: DawidTrochim/VulnSeek</title>
       <link>https://github.com/DawidTrochim/VulnSeek</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Read-only Windows privilege-escalation scanner in C#/.NET 8. Uses native AccessCheck against your own token to prove what you can actually exploit, cutting false positives. Gives a ranked escalation plan with MITRE mapping, detection-risk hints, credential-loot targets, and an offline HTML dashboard. Single self-contained exe. | 最后推送: 2026-09-08T10:00:39Z | 最后更新: 2026-09-08T10:03:05Z</description>
@@ -102289,6 +102401,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:53:09 GMT</lastBuildDate>
   </channel>
 </rss>
