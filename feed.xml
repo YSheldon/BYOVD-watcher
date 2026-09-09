@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: lmakonem/BadDrivers</title>
+      <link>https://github.com/lmakonem/BadDrivers</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD kernel-mode LSASS credential extraction - lab research | 最后推送: 2026-09-09T15:12:38Z | 最后更新: 2026-09-09T15:20:59Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lmakonem/BadDrivers?new=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-09T14:16:16Z | 最后更新: 2026-09-09T14:21:07Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: lumidren/CyberPulse-SOC-Suite</title>
+      <link>https://github.com/lumidren/CyberPulse-SOC-Suite</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Automated SIEM &amp; SOAR SOC platform: MITRE ATT&amp;CK detection engineering, automated threat intel enrichment &amp; containment, and real-time dashboard. | 最后推送: 2026-09-09T12:03:45Z | 最后更新: 2026-09-09T12:05:10Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lumidren/CyberPulse-SOC-Suite?new=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-09T15:17:27Z | 最后更新: 2026-09-09T15:30:22Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: brucesongs/kali-claw</title>
+      <link>https://github.com/brucesongs/kali-claw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: kali-claw is a self-evolving security agent from the OpenClaw project. It operates 24/7 on Kali Linux, systematically learning and practicing penetration testing across 49 security domains. It thinks like a hacker — first principles, divergent thinking, assume breach — and acts like a senior engineer: direct, hands-on, results-driven. | 最后推送: 2026-09-09T15:06:11Z | 最后更新: 2026-09-09T15:36:02Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/brucesongs/kali-claw?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-09T14:24:03Z | 最后更新: 2026-09-09T14:37:15Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-09T13:57:59Z | 最后更新: 2026-09-09T14:52:23Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-09T13:50:35Z | 最后更新: 2026-09-09T14:53:53Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-09T13:44:10Z | 最后更新: 2026-09-09T13:56:20Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-09T14:56:51Z | 最后更新: 2026-09-09T14:05:11Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: legionultramax/Detection-Engineering-MCP</title>
+      <link>https://github.com/legionultramax/Detection-Engineering-MCP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Detection Engineering MCP | 最后推送: 2026-09-09T12:04:39Z | 最后更新: 2026-09-09T12:04:54Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/legionultramax/Detection-Engineering-MCP?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-09T11:09:45Z | 最后更新: 2026-09-09T11:12:05Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-09T10:54:17Z | 最后更新: 2026-09-09T10:54:25Z</description>
+      <pubDate>2026-09-09T15:48:32Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1788968912</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: christiand0797/downpour</title>
       <link>https://github.com/christiand0797/downpour</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: my personal antivirus antimalware anti rat anti everything program work in progress | 最后推送: 2026-09-09T08:38:31Z | 最后更新: 2026-09-09T08:39:56Z</description>
@@ -102653,6 +102744,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:48:32 GMT</lastBuildDate>
   </channel>
 </rss>
