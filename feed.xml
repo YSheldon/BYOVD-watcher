@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: TheMalwareGuardian/CVE-2022-34302</title>
+      <link>https://github.com/TheMalwareGuardian/CVE-2022-34302</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2022-34302 - Secure Boot bypass via New Horizon Datasys signed bootloader (shdloader.efi) - BYOVUA technique exploiting built-in custom PE/COFF loader to load unsigned UEFI applications without signature verification. | 最后推送: 2026-09-11T18:42:59Z | 最后更新: 2026-09-11T18:43:03Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/CVE-2022-34302?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: TheMalwareGuardian/CVE-2022-34303</title>
+      <link>https://github.com/TheMalwareGuardian/CVE-2022-34303</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2022-34303 - Secure Boot bypass via CryptoPro Secure Disk signed UEFI Shell (Shell_Full.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications. | 最后推送: 2026-09-11T18:33:41Z | 最后更新: 2026-09-11T18:33:48Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/CVE-2022-34303?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: TheMalwareGuardian/CVE-2022-34301</title>
+      <link>https://github.com/TheMalwareGuardian/CVE-2022-34301</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2022-34301 - Secure Boot bypass via Eurosoft signed UEFI Shell (esdiags.efi) - BYOVUA technique exploiting mm command for gSecurity2 corruption to load unsigned UEFI applications. | 最后推送: 2026-09-11T18:27:33Z | 最后更新: 2026-09-11T18:27:37Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TheMalwareGuardian/CVE-2022-34301?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: noamgille-sketch/G6</title>
+      <link>https://github.com/noamgille-sketch/G6</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-11T17:46:48Z | 最后更新: 2026-09-11T17:42:16Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/noamgille-sketch/G6?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-09-11T16:36:32Z | 最后更新: 2026-09-11T16:36:36Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-09-11T16:01:27Z | 最后更新: 2026-09-11T16:01:31Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-09-11T20:05:30Z | 最后更新: 2026-09-11T20:05:34Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-11T20:02:15Z | 最后更新: 2026-09-11T20:02:23Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-11T19:56:36Z | 最后更新: 2026-09-11T19:56:41Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-11T19:49:36Z | 最后更新: 2026-09-11T19:49:42Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-11T18:31:52Z | 最后更新: 2026-09-11T18:31:57Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-11T18:09:18Z | 最后更新: 2026-09-11T18:09:25Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-11T16:20:13Z | 最后更新: 2026-09-11T16:20:17Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-11T16:02:34Z | 最后更新: 2026-09-11T16:02:39Z</description>
+      <pubDate>2026-09-11T20:21:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789158102</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: fsquirt/Hyperion</title>
       <link>https://github.com/fsquirt/Hyperion</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 基于AI Agent的游戏反作弊平台 | 最后推送: 2026-09-11T11:54:16Z | 最后更新: 2026-09-11T11:54:20Z</description>
@@ -103570,6 +103668,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:21:42 GMT</lastBuildDate>
   </channel>
 </rss>
