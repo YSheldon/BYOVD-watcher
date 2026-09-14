@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: TRI7AAN/Jangiya</title>
+      <link>https://github.com/TRI7AAN/Jangiya</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-14T17:28:03Z | 最后更新: 2026-09-14T17:28:07Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/TRI7AAN/Jangiya?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: iQingshan/Toshell</title>
+      <link>https://github.com/iQingshan/Toshell</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: ToShell 是一个轻量 C2 框架，由 服务端（Team Server）+ Web 控制台 + 多平台植入端 组成，覆盖「生成载荷 → 会话管理 → 任务执行」的完整链路。单二进制即可部署整套服务，开箱即用。 | 最后推送: 2026-09-14T17:25:40Z | 最后更新: 2026-09-14T17:25:45Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iQingshan/Toshell?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: bl4ckr0ss3/knife</title>
+      <link>https://github.com/bl4ckr0ss3/knife</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'. | 最后推送: 2026-09-14T16:29:05Z | 最后更新: 2026-09-14T17:08:58Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/bl4ckr0ss3/knife?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-14T16:18:32Z | 最后更新: 2026-09-14T16:18:36Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: cli0xfa/cli0xfa</title>
+      <link>https://github.com/cli0xfa/cli0xfa</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel &amp; low-level security research · profile README | 最后推送: 2026-09-14T13:56:59Z | 最后更新: 2026-09-14T13:57:04Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/cli0xfa/cli0xfa?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrackerCat/feed</title>
+      <link>https://github.com/CrackerCat/feed</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-14T12:57:51Z | 最后更新: 2026-09-14T12:57:55Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrackerCat/feed?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: user23333/kaka</title>
+      <link>https://github.com/user23333/kaka</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: For personal use only | 最后推送: 2026-09-14T12:45:33Z | 最后更新: 2026-09-14T12:45:38Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/user23333/kaka?new=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-14T16:36:04Z | 最后更新: 2026-09-14T16:36:09Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-14T14:42:09Z | 最后更新: 2026-09-14T14:41:25Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: saad-mh/jocky</title>
+      <link>https://github.com/saad-mh/jocky</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-14T14:00:51Z | 最后更新: 2026-09-14T14:00:55Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/saad-mh/jocky?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-14T13:55:31Z | 最后更新: 2026-09-14T13:55:41Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-14T13:49:49Z | 最后更新: 2026-09-14T13:50:04Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-14T13:24:21Z | 最后更新: 2026-09-14T13:24:25Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-14T12:30:30Z | 最后更新: 2026-09-14T12:30:34Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-14T12:05:07Z | 最后更新: 2026-09-14T12:05:12Z</description>
+      <pubDate>2026-09-14T17:30:25Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789407025</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: nucios236marti/byovdr</title>
       <link>https://github.com/nucios236marti/byovdr</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-14T11:18:53Z | 最后更新: 2026-09-14T11:18:56Z</description>
@@ -104732,6 +104837,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:30:26 GMT</lastBuildDate>
   </channel>
 </rss>
