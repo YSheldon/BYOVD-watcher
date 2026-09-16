@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD📢 更新: Pamure/jocky-forensics</title>
+      <link>https://github.com/Pamure/jocky-forensics</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: JOCKY (SIH26148): Advanced forensic scripting language and stealth runtime for computer &amp; network forensic analysis without triggering security solutions | 最后推送: 2026-09-16T02:42:30Z | 最后更新: 2026-09-16T02:42:25Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Pamure/jocky-forensics?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-09-16T02:25:34Z | 最后更新: 2026-09-16T02:25:38Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Blog posting | 最后推送: 2026-09-16T02:05:15Z | 最后更新: 2026-09-16T02:05:18Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-16T01:44:43Z | 最后更新: 2026-09-16T01:44:47Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-16T01:42:49Z | 最后更新: 2026-09-16T01:42:52Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 5forzin/abraham</title>
+      <link>https://github.com/5forzin/abraham</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Purple-team C2 research framework for Windows. Every offensive technique ships with its coupled detection, validated on an instrumented lab. | 最后推送: 2026-09-16T01:21:04Z | 最后更新: 2026-09-16T01:21:08Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/5forzin/abraham?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-15T23:42:44Z | 最后更新: 2026-09-15T23:42:48Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-15T23:02:29Z | 最后更新: 2026-09-15T22:57:43Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-15T21:10:47Z | 最后更新: 2026-09-15T21:10:51Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-15T20:57:27Z | 最后更新: 2026-09-15T20:57:32Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: iQingshan/Toshell</title>
+      <link>https://github.com/iQingshan/Toshell</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: ToShell 是一个轻量 C2 框架，由 服务端（Team Server）+ Web 控制台 + 多平台植入端 组成，覆盖「生成载荷 → 会话管理 → 任务执行」的完整链路。单二进制即可部署整套服务，开箱即用。 | 最后推送: 2026-09-15T12:55:12Z | 最后更新: 2026-09-16T02:27:36Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iQingshan/Toshell?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: bl4ckr0ss3/knife</title>
+      <link>https://github.com/bl4ckr0ss3/knife</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'. | 最后推送: 2026-09-15T12:02:20Z | 最后更新: 2026-09-16T02:55:16Z</description>
+      <pubDate>2026-09-16T03:00:43Z</pubDate>
+      <guid isPermaLink="true">https://github.com/bl4ckr0ss3/knife?updated=1&amp;ts=1789527643</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Pamure/jocky-forensics</title>
       <link>https://github.com/Pamure/jocky-forensics</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: JOCKY (SIH26148): Advanced forensic scripting language and stealth runtime for computer &amp; network forensic analysis without triggering security solutions | 最后推送: 2026-09-15T20:42:05Z | 最后更新: 2026-09-15T20:42:06Z</description>
@@ -105320,6 +105404,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:00:43 GMT</lastBuildDate>
   </channel>
 </rss>
