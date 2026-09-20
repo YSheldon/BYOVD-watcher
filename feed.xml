@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: GhostOverflow/BSidesBwp_BYOVD_Talk</title>
+      <link>https://github.com/GhostOverflow/BSidesBwp_BYOVD_Talk</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: The presentation content and assets for the Bsides Bwp Tradecraft Summit on BYOVD Talk. | 最后推送: 2026-09-20T19:38:20Z | 最后更新: 2026-09-20T19:38:24Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostOverflow/BSidesBwp_BYOVD_Talk?new=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: grisuno/LazyOwn</title>
+      <link>https://github.com/grisuno/LazyOwn</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&amp;C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and powerful Console Client, it is the best combination for your Autonomous RedTeam/APT campaigns. | 最后推送: 2026-09-20T19:26:14Z | 最后更新: 2026-09-20T19:26:15Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grisuno/LazyOwn?new=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: jjam3774/ruby-devops-toolkit</title>
+      <link>https://github.com/jjam3774/ruby-devops-toolkit</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Ruby scripts for Linux and Windows DevOps: file perission SUID/SGID auditing, NTP fleet drift monitorin, and Windows service security auditing via WMI. | 最后推送: 2026-09-20T18:52:59Z | 最后更新: 2026-09-20T18:53:03Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jjam3774/ruby-devops-toolkit?new=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: khanmanjo161-hash/Windows-Privilege-Escalation</title>
+      <link>https://github.com/khanmanjo161-hash/Windows-Privilege-Escalation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-20T16:33:05Z | 最后更新: 2026-09-20T16:33:09Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/khanmanjo161-hash/Windows-Privilege-Escalation?new=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-09-20T16:14:26Z | 最后更新: 2026-09-20T16:14:29Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?new=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-20T19:42:51Z | 最后更新: 2026-09-20T19:51:52Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-20T19:06:01Z | 最后更新: 2026-09-20T19:06:04Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-20T18:22:20Z | 最后更新: 2026-09-20T18:22:24Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Hayliy/naixi-desktop</title>
+      <link>https://github.com/Hayliy/naixi-desktop</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 奶昔桌面智能体，源于自研奶昔agent的桌面端剥离而来 | 最后推送: 2026-09-20T16:42:42Z | 最后更新: 2026-09-20T16:42:46Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Hayliy/naixi-desktop?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kj299/doze_sec</title>
+      <link>https://github.com/kj299/doze_sec</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-20T17:36:43Z | 最后更新: 2026-09-20T15:57:41Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kj299/doze_sec?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-09-20T15:55:35Z | 最后更新: 2026-09-20T15:55:39Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-09-20T15:37:53Z | 最后更新: 2026-09-20T15:37:57Z</description>
+      <pubDate>2026-09-20T20:12:22Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1789935142</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: mdma777/antigravity-pentest-skills</title>
       <link>https://github.com/mdma777/antigravity-pentest-skills</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Comprehensive pentesting knowledge base for Antigravity AI: 17 skills covering web hacking, reverse engineering, DFIR, AD attacks, cryptography and social engineering | 最后推送: 2026-09-20T12:53:07Z | 最后更新: 2026-09-20T15:06:21Z</description>
@@ -107343,6 +107427,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:12:22 GMT</lastBuildDate>
   </channel>
 </rss>
