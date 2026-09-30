@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-09-30T21:38:41Z | 最后更新: 2026-09-30T21:38:46Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?new=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-09-30T20:54:48Z | 最后更新: 2026-09-30T20:54:55Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: dwgx/driver-vuln-research</title>
+      <link>https://github.com/dwgx/driver-vuln-research</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Kernel driver vulnerability research - BYOVD technique (SIVX64, AsIO3, ASTRA64, LnvMSRIO, ArgusMonitor, BS_RCIO64, ThrottleStop) | 最后推送: 2026-09-30T19:40:17Z | 最后更新: 2026-09-30T19:40:21Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dwgx/driver-vuln-research?new=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is a reverse engineering framework | 最后推送: 2026-09-30T21:40:28Z | 最后更新: 2026-09-30T21:40:33Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-09-30T21:29:46Z | 最后更新: 2026-09-30T21:29:51Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-09-30T21:28:53Z | 最后更新: 2026-09-30T21:28:57Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SWORDIntel/Angryier</title>
+      <link>https://github.com/SWORDIntel/Angryier</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: When you are absolutely furious your symbolic execution is taking too long and you just can't stand it anymore and you're not just angry you're angryier! | 最后推送: 2026-09-30T20:52:41Z | 最后更新: 2026-09-30T20:52:45Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SWORDIntel/Angryier?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-09-30T20:52:15Z | 最后更新: 2026-09-30T20:52:19Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-09-30T19:48:27Z | 最后更新: 2026-09-30T19:48:35Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ShraddhaRathore28/JOCKY-X</title>
+      <link>https://github.com/ShraddhaRathore28/JOCKY-X</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-09-30T17:58:02Z | 最后更新: 2026-09-30T17:58:07Z</description>
+      <pubDate>2026-09-30T21:48:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ShraddhaRathore28/JOCKY-X?updated=1&amp;ts=1790804884</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Nightvex-Labs/Gamebreaker-Delta-Force-Esp</title>
       <link>https://github.com/Nightvex-Labs/Gamebreaker-Delta-Force-Esp</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Spectra-Dark ESP overlay for Delta Force (kdu BYOVD, Unicorn FEncVector decrypt, panel + radar + loot with 6 rarity filters + armor tier/durability) | 最后推送: 2026-09-30T17:17:34Z | 最后更新: 2026-09-30T17:17:38Z</description>
@@ -111655,6 +111725,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:48:04 GMT</lastBuildDate>
   </channel>
 </rss>
