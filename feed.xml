@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: hassan0x/EDRBlind</title>
+      <link>https://github.com/hassan0x/EDRBlind</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVD tool to blind EDR/AV via kernel callback removal, ETW-TI disable, and PPL stripping | 最后推送: 2026-10-02T21:07:36Z | 最后更新: 2026-10-02T21:07:40Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hassan0x/EDRBlind?new=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nikhil-aniill/maldev-rs</title>
+      <link>https://github.com/nikhil-aniill/maldev-rs</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-02T20:01:37Z | 最后更新: 2026-10-02T20:01:41Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nikhil-aniill/maldev-rs?new=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-10-02T18:15:11Z | 最后更新: 2026-10-02T18:15:15Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-02T21:33:14Z | 最后更新: 2026-10-02T21:28:43Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is a reverse engineering framework | 最后推送: 2026-10-02T21:25:48Z | 最后更新: 2026-10-02T21:25:52Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: dzn0/portable-driver-triage</title>
+      <link>https://github.com/dzn0/portable-driver-triage</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LLM-driven static BYOVD triage for Windows kernel drivers — collect, analyze, hand off to an AI agent, offline in one Docker image. Built on DrvEye. Nothing is ever executed. | 最后推送: 2026-10-02T21:16:20Z | 最后更新: 2026-10-02T21:16:24Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dzn0/portable-driver-triage?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-02T19:47:47Z | 最后更新: 2026-10-02T21:13:46Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-10-02T19:44:47Z | 最后更新: 2026-10-02T19:44:51Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mukendi/mukendi</title>
+      <link>https://github.com/mukendi/mukendi</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-02T19:00:07Z | 最后更新: 2026-10-02T19:00:12Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mukendi/mukendi?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-10-02T18:48:58Z | 最后更新: 2026-10-02T18:49:02Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-02T18:41:48Z | 最后更新: 2026-10-02T18:41:55Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ruggdoll/CTI-feeds</title>
+      <link>https://github.com/ruggdoll/CTI-feeds</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Liste de sources de renseignement d'origine cyber | 最后推送: 2026-10-02T18:12:46Z | 最后更新: 2026-10-02T18:12:50Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ruggdoll/CTI-feeds?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-02T13:16:40Z | 最后更新: 2026-10-02T19:56:08Z</description>
+      <pubDate>2026-10-02T21:44:36Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1790977476</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: SWORDIntel/Angryier</title>
       <link>https://github.com/SWORDIntel/Angryier</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: When you are absolutely furious your symbolic execution is taking too long and you just can't stand it anymore and you're not just angry you're angryier! | 最后推送: 2026-10-02T17:10:20Z | 最后更新: 2026-10-02T17:10:25Z</description>
@@ -112565,6 +112656,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:44:36 GMT</lastBuildDate>
   </channel>
 </rss>
