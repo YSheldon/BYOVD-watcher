@@ -2,6 +2,83 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: dobin/AwesomeMalDevLinks</title>
+      <link>https://github.com/dobin/AwesomeMalDevLinks</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: List of awesome MalDev, Offensive Security, Hacking links | 最后推送: 2026-10-09T16:16:04Z | 最后更新: 2026-10-09T16:16:08Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dobin/AwesomeMalDevLinks?new=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Xinglanclever/XinSpect</title>
+      <link>https://github.com/Xinglanclever/XinSpect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 曦覽 XinSpect — Windows 原生硬體資訊總覽・即時感測・效能評測・超頻・一鍵裝機 (WPF/.NET 10) | 最后推送: 2026-10-09T22:02:35Z | 最后更新: 2026-10-09T22:02:39Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Xinglanclever/XinSpect?updated=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-09T21:47:54Z | 最后更新: 2026-10-09T21:47:58Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-09T21:52:41Z | 最后更新: 2026-10-09T21:45:39Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-09T19:49:19Z | 最后更新: 2026-10-09T20:15:52Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-10-09T19:47:24Z | 最后更新: 2026-10-09T19:47:28Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1791583773</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-09T16:57:48Z | 最后更新: 2026-10-09T16:57:53Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1791583774</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is a reverse engineering framework | 最后推送: 2026-10-09T14:47:54Z | 最后更新: 2026-10-09T19:02:00Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1791583774</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-09T14:05:52Z | 最后更新: 2026-10-09T21:27:55Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1791583774</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-09T13:02:46Z | 最后更新: 2026-10-09T13:02:50Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1791583774</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-09T12:45:09Z | 最后更新: 2026-10-09T12:45:15Z</description>
+      <pubDate>2026-10-09T22:09:33Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1791583774</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Ekitji/siem</title>
       <link>https://github.com/Ekitji/siem</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Offensive SIEM | 最后推送: 2026-10-09T11:56:01Z | 最后更新: 2026-10-09T11:56:04Z</description>
@@ -115309,6 +115386,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:09:34 GMT</lastBuildDate>
   </channel>
 </rss>
