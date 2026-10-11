@@ -2,6 +2,139 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-10-11T09:26:51Z | 最后更新: 2026-10-11T09:26:55Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1791719980</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: xuegongziqin/xx</title>
+      <link>https://github.com/xuegongziqin/xx</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 一个具有攻击性的Windows用户态Rootkit, 竞赛用途 | 最后推送: 2026-10-11T08:52:25Z | 最后更新: 2026-10-11T08:50:33Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xuegongziqin/xx?new=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: alienideas/ShadowBackup-Hunter</title>
+      <link>https://github.com/alienideas/ShadowBackup-Hunter</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Shadow-Copy and Backup Hunting which catch the most common pre-encryption ransomware behaviors. | 最后推送: 2026-10-11T08:36:01Z | 最后更新: 2026-10-11T08:36:04Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/alienideas/ShadowBackup-Hunter?new=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-10-11T03:45:31Z | 最后更新: 2026-10-11T03:45:35Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?new=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-10-11T11:53:53Z | 最后更新: 2026-10-11T11:53:58Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-11T11:44:33Z | 最后更新: 2026-10-11T11:44:40Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-10-11T11:35:38Z | 最后更新: 2026-10-11T11:35:42Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system. | 最后推送: 2026-10-11T11:12:31Z | 最后更新: 2026-10-11T11:12:35Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-11T07:45:36Z | 最后更新: 2026-10-11T09:00:28Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: lukmannurhikma/UnknownKiller</title>
+      <link>https://github.com/lukmannurhikma/UnknownKiller</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Exploit a vulnerable signed kernel driver to terminate any process from kernel mode without security checks on Windows systems. | 最后推送: 2026-10-11T07:22:38Z | 最后更新: 2026-10-11T07:22:42Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lukmannurhikma/UnknownKiller?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: samftggr/VEN0m-Ransomware</title>
+      <link>https://github.com/samftggr/VEN0m-Ransomware</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Demonstrate how a signed driver can bypass defenses to deploy ransomware on Windows 11 with advanced AV and UAC evasion techniques. | 最后推送: 2026-10-11T07:22:11Z | 最后更新: 2026-10-11T07:22:14Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/samftggr/VEN0m-Ransomware?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-10-11T07:13:10Z | 最后更新: 2026-10-11T07:13:14Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nie2100/40hx-unlock-recovery</title>
+      <link>https://github.com/nie2100/40hx-unlock-recovery</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CMP 40HX 解锁状态恢复手册（本机实测：算力解锁 + PCIe Gen2 x16） | 最后推送: 2026-10-11T06:54:23Z | 最后更新: 2026-10-11T07:29:57Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nie2100/40hx-unlock-recovery?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Twodragon0/Twodragon0</title>
+      <link>https://github.com/Twodragon0/Twodragon0</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Profile README | 最后推送: 2026-10-11T05:57:21Z | 最后更新: 2026-10-11T05:57:25Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Twodragon0?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-11T05:28:34Z | 最后更新: 2026-10-11T05:28:38Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-11T04:35:53Z | 最后更新: 2026-10-11T04:35:57Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SWORDIntel/Angryier</title>
+      <link>https://github.com/SWORDIntel/Angryier</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: When you are absolutely furious your symbolic execution is taking too long and you just can't stand it anymore and you're not just angry you're angryier! | 最后推送: 2026-10-11T04:24:15Z | 最后更新: 2026-10-11T04:24:19Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SWORDIntel/Angryier?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-10-11T03:38:05Z | 最后更新: 2026-10-11T03:38:10Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-11T01:46:28Z | 最后更新: 2026-10-11T06:27:00Z</description>
+      <pubDate>2026-10-11T11:59:40Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1791719981</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: zulloper/cve-poc</title>
       <link>https://github.com/zulloper/cve-poc</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-10-11T02:58:07Z | 最后更新: 2026-10-11T02:58:12Z</description>
@@ -115925,6 +116058,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:59:41 GMT</lastBuildDate>
   </channel>
 </rss>
