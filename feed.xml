@@ -2,6 +2,125 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Dragon-Lady/linux-supply-chain-guard</title>
+      <link>https://github.com/Dragon-Lady/linux-supply-chain-guard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Read-only Linux host checker for supply-chain incident response, including vulnerable kernel posture, risky module state, and known developer-tooling persistence indicators | 最后推送: 2026-10-15T15:54:30Z | 最后更新: 2026-10-15T15:54:34Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Dragon-Lady/linux-supply-chain-guard?new=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-15T14:51:03Z | 最后更新: 2026-10-15T14:51:09Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mym0us3r/Unified-Sysmon-Configs</title>
+      <link>https://github.com/mym0us3r/Unified-Sysmon-Configs</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Unified Native Sysmon configurations for advanced Windows auditing. Seamless integration with Wazuh SIEM/XDR and other industry-leading SIEM platforms for proactive threat hunting. | 最后推送: 2026-10-15T13:44:23Z | 最后更新: 2026-10-15T13:44:28Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mym0us3r/Unified-Sysmon-Configs?new=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sl0wz3r/ThreatHunts</title>
+      <link>https://github.com/sl0wz3r/ThreatHunts</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-15T12:02:33Z | 最后更新: 2026-10-15T12:02:38Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sl0wz3r/ThreatHunts?new=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: vipmaycom/eac-detection</title>
+      <link>https://github.com/vipmaycom/eac-detection</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-15T16:10:05Z | 最后更新: 2026-10-15T16:10:09Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/vipmaycom/eac-detection?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system. | 最后推送: 2026-10-15T16:00:58Z | 最后更新: 2026-10-15T16:01:11Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-15T15:48:31Z | 最后更新: 2026-10-15T15:48:36Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-15T15:41:31Z | 最后更新: 2026-10-15T15:41:36Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-15T14:48:45Z | 最后更新: 2026-10-15T14:46:20Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-15T13:50:52Z | 最后更新: 2026-10-15T15:55:55Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-15T13:32:27Z | 最后更新: 2026-10-15T13:16:10Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nie2100/40hx-unlock-recovery</title>
+      <link>https://github.com/nie2100/40hx-unlock-recovery</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: CMP 40HX 解锁状态恢复手册（本机实测：算力解锁 + PCIe Gen2 x16） | 最后推送: 2026-10-15T13:05:47Z | 最后更新: 2026-10-15T13:05:45Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nie2100/40hx-unlock-recovery?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: bl4ckr0ss3/knife</title>
+      <link>https://github.com/bl4ckr0ss3/knife</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife. | 最后推送: 2026-10-15T12:19:15Z | 最后更新: 2026-10-15T12:19:19Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/bl4ckr0ss3/knife?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mooolight/Beacon-Object-Files</title>
+      <link>https://github.com/mooolight/Beacon-Object-Files</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: BOF collections | 最后推送: 2026-10-15T12:02:00Z | 最后更新: 2026-10-15T12:02:05Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mooolight/Beacon-Object-Files?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-15T11:16:39Z | 最后更新: 2026-10-15T11:16:43Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-15T10:59:37Z | 最后更新: 2026-10-15T10:59:42Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources. | 最后推送: 2026-10-15T09:30:01Z | 最后更新: 2026-10-15T12:51:00Z</description>
+      <pubDate>2026-10-15T16:11:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?updated=1&amp;ts=1792080664</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: danhowett/fx</title>
       <link>https://github.com/danhowett/fx</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: fx -  A GUI based Incident Response tool for hunting financially motivated threat actor activity. | 最后推送: 2026-10-15T09:44:13Z | 最后更新: 2026-10-15T09:34:20Z</description>
@@ -117668,6 +117787,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:11:05 GMT</lastBuildDate>
   </channel>
 </rss>
