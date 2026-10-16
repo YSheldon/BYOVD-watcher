@@ -2,6 +2,125 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: yasunosubaru/YinHuGuard</title>
+      <link>https://github.com/yasunosubaru/YinHuGuard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: YinHuGuard - Windows read-only triage tool for Silver Fox (ValleyRAT) trojan | 最后推送: 2026-10-16T15:21:27Z | 最后更新: 2026-10-16T15:21:31Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yasunosubaru/YinHuGuard?new=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-10-16T13:59:57Z | 最后更新: 2026-10-16T14:00:02Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?new=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Weirdlogic/bridgeagent-static</title>
+      <link>https://github.com/Weirdlogic/bridgeagent-static</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Static analysis of the BridgeAgent kit: PDFWKRNL.sys BYOVD EDR killer, Bridge Agent Rust RAT, collector. Report, decoders, YARA/KQL/Elastic detections. | 最后推送: 2026-10-16T11:22:54Z | 最后更新: 2026-10-16T11:22:58Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Weirdlogic/bridgeagent-static?new=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-16T15:45:22Z | 最后更新: 2026-10-16T15:45:27Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-16T15:52:15Z | 最后更新: 2026-10-16T15:36:44Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Xinglanclever/XinSpect</title>
+      <link>https://github.com/Xinglanclever/XinSpect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 曦覽 XinSpect — Windows 原生硬體資訊總覽・即時感測・效能評測・超頻・一鍵裝機 (WPF/.NET 10) | 最后推送: 2026-10-16T15:28:11Z | 最后更新: 2026-10-16T15:28:15Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Xinglanclever/XinSpect?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: anshnt/security</title>
+      <link>https://github.com/anshnt/security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-16T15:14:06Z | 最后更新: 2026-10-16T15:14:11Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/anshnt/security?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system. | 最后推送: 2026-10-16T15:11:58Z | 最后更新: 2026-10-16T15:12:02Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-16T14:54:50Z | 最后更新: 2026-10-16T14:54:51Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-16T14:44:35Z | 最后更新: 2026-10-16T14:44:40Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: hyne-lzh/Windows_PE_Inspector</title>
+      <link>https://github.com/hyne-lzh/Windows_PE_Inspector</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 分析Windows PE文件 | 最后推送: 2026-10-16T14:01:14Z | 最后更新: 2026-10-16T14:01:19Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hyne-lzh/Windows_PE_Inspector?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-16T13:49:38Z | 最后更新: 2026-10-16T13:49:46Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-16T13:14:21Z | 最后更新: 2026-10-16T15:01:11Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: danhowett/fx</title>
+      <link>https://github.com/danhowett/fx</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: fx -  A GUI based Incident Response tool for hunting financially motivated threat actor activity. | 最后推送: 2026-10-16T13:01:34Z | 最后更新: 2026-10-16T12:58:07Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/danhowett/fx?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-16T11:11:23Z | 最后更新: 2026-10-16T11:11:27Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-16T10:55:16Z | 最后更新: 2026-10-16T10:55:21Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: bl4ckr0ss3/knife</title>
+      <link>https://github.com/bl4ckr0ss3/knife</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife. | 最后推送: 2026-10-15T20:25:53Z | 最后更新: 2026-10-16T13:39:10Z</description>
+      <pubDate>2026-10-16T15:58:06Z</pubDate>
+      <guid isPermaLink="true">https://github.com/bl4ckr0ss3/knife?updated=1&amp;ts=1792166286</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Xinglanclever/XinSpect</title>
       <link>https://github.com/Xinglanclever/XinSpect</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 曦覽 XinSpect — Windows 原生硬體資訊總覽・即時感測・效能評測・超頻・一鍵裝機 (WPF/.NET 10) | 最后推送: 2026-10-16T09:37:53Z | 最后更新: 2026-10-16T09:37:57Z</description>
@@ -118095,6 +118214,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:58:06 GMT</lastBuildDate>
   </channel>
 </rss>
