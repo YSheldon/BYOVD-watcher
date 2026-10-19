@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: luckystars0612/skills</title>
+      <link>https://github.com/luckystars0612/skills</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Skills for AI | 最后推送: 2026-10-19T09:34:33Z | 最后更新: 2026-10-19T09:34:38Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/luckystars0612/skills?new=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-19T09:17:50Z | 最后更新: 2026-10-19T09:17:56Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-10-19T05:55:29Z | 最后更新: 2026-10-19T05:55:34Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: yasunosubaru/YinHuGuard</title>
+      <link>https://github.com/yasunosubaru/YinHuGuard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 只读的 Windows 银狐（ValleyRAT）木马排查工具：一次扫描七个面，GUI/CLI/日志/报告四渠道同源输出；不修改系统、无网络请求。Read-only Windows triage for Silver Fox (ValleyRAT) — 7 surfaces, GUI + CLI, no system changes. | 最后推送: 2026-10-19T04:38:21Z | 最后更新: 2026-10-19T04:55:56Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yasunosubaru/YinHuGuard?new=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-10-19T02:59:13Z | 最后更新: 2026-10-19T02:59:18Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-19T11:44:50Z | 最后更新: 2026-10-19T11:44:59Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-10-19T11:43:51Z | 最后更新: 2026-10-19T11:43:56Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?updated=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-19T10:33:06Z | 最后更新: 2026-10-19T10:42:44Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
+      <link>https://github.com/aeterna/aeterna-rongroi</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-19T10:41:57Z | 最后更新: 2026-10-19T10:31:25Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792410901</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-19T07:48:25Z | 最后更新: 2026-10-19T07:48:32Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Xinglanclever/XinSpect</title>
+      <link>https://github.com/Xinglanclever/XinSpect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 曦覽 XinSpect — 免費開源的 Windows 硬體驗機、監控、超頻與安全稽核工具：硬體／韌體／作業系統三源並列對帳，單一執行檔免安裝、預設唯讀、不上傳使用者資料 (WPF/.NET 10, AGPL-3.0) | 最后推送: 2026-10-19T06:07:54Z | 最后更新: 2026-10-19T06:07:57Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Xinglanclever/XinSpect?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-19T04:21:20Z | 最后更新: 2026-10-19T04:21:23Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-19T03:41:58Z | 最后更新: 2026-10-19T03:42:02Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-10-19T03:40:39Z | 最后更新: 2026-10-19T03:40:43Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system. | 最后推送: 2026-10-19T00:24:27Z | 最后更新: 2026-10-19T09:15:14Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-18T18:35:45Z | 最后更新: 2026-10-19T07:43:29Z</description>
+      <pubDate>2026-10-19T11:55:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1792410902</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: AmenHermano144/Anti-cheat-Kernel-Driver</title>
       <link>https://github.com/AmenHermano144/Anti-cheat-Kernel-Driver</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Anti cheat Kernel Driver for windows  | 最后推送: 2026-10-19T02:30:30Z | 最后更新: 2026-10-19T02:30:33Z</description>
@@ -119320,6 +119432,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:55:02 GMT</lastBuildDate>
   </channel>
 </rss>
