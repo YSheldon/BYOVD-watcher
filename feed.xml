@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: ITherso/monolith-test</title>
+      <link>https://github.com/ITherso/monolith-test</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Elite Red Team Adversary Simulation &amp; C2 Framework | Heavy Evasion | Encrypted Beacon | Production Ready | 最后推送: 2026-10-21T21:07:14Z | 最后更新: 2026-10-21T21:07:26Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ITherso/monolith-test?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sauravbhattacharya001/WinSentinel</title>
+      <link>https://github.com/sauravbhattacharya001/WinSentinel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Always-on Windows security agent with real-time monitoring, AI-powered threat detection, auto-remediation, and 13 audit modules | 最后推送: 2026-10-21T19:56:23Z | 最后更新: 2026-10-21T19:56:29Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sauravbhattacharya001/WinSentinel?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Accenture/cyber-intelligence</title>
+      <link>https://github.com/Accenture/cyber-intelligence</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository hosts the threat intelligence reports that Accenture Security APEX Labs publishes from Accenture Cyber Intelligence (CI) research into active threats. Each report gives defenders what they need to detect and respond to the threat: indicators of compromise (IOCs), detection rules, network fingerprints and mitigation guidance. | 最后推送: 2026-10-21T19:41:08Z | 最后更新: 2026-10-21T19:41:12Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Accenture/cyber-intelligence?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: onur-uyar-security/t1562-impair-defenses-detections</title>
+      <link>https://github.com/onur-uyar-security/t1562-impair-defenses-detections</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-21T18:53:34Z | 最后更新: 2026-10-21T18:53:39Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/onur-uyar-security/t1562-impair-defenses-detections?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thousaba/Sentryfy</title>
+      <link>https://github.com/thousaba/Sentryfy</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Detection engineering lab: MITRE ATT&amp;CK detections built and validated on real telemetry across Splunk (RBA) and Microsoft Sentinel (KQL), with writeups. | 最后推送: 2026-10-21T18:47:58Z | 最后更新: 2026-10-21T18:48:03Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thousaba/Sentryfy?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: yogsec/Hacking-Tools</title>
+      <link>https://github.com/yogsec/Hacking-Tools</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources. | 最后推送: 2026-10-21T16:52:25Z | 最后更新: 2026-10-21T16:52:34Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yogsec/Hacking-Tools?new=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ghshhf/skynet-fleet</title>
+      <link>https://github.com/ghshhf/skynet-fleet</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期） | 最后推送: 2026-10-21T21:01:23Z | 最后更新: 2026-10-21T21:01:27Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ghshhf/skynet-fleet?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-21T20:45:41Z | 最后更新: 2026-10-21T20:45:51Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-21T20:03:49Z | 最后更新: 2026-10-21T20:03:57Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mrhenrike/ADXPL-Forge</title>
+      <link>https://github.com/mrhenrike/ADXPL-Forge</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: ADXPL-Forge (AXF) — Active Directory exploitation framework. 219 modules across 25 categories for AD pentest and Red Team operations. | 最后推送: 2026-10-21T20:00:17Z | 最后更新: 2026-10-21T20:00:22Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mrhenrike/ADXPL-Forge?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system | 最后推送: 2026-10-21T19:08:57Z | 最后更新: 2026-10-21T19:09:01Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Dragon-Lady/linux-supply-chain-guard</title>
+      <link>https://github.com/Dragon-Lady/linux-supply-chain-guard</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Read-only Linux host checker for supply-chain incident response, including vulnerable kernel posture, risky module state, and known developer-tooling persistence indicators | 最后推送: 2026-10-21T18:20:55Z | 最后更新: 2026-10-21T18:20:08Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Dragon-Lady/linux-supply-chain-guard?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-21T18:15:44Z | 最后更新: 2026-10-21T18:15:43Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 33martyr/drvscan</title>
+      <link>https://github.com/33martyr/drvscan</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Driver Scanner | 最后推送: 2026-10-21T17:50:27Z | 最后更新: 2026-10-21T17:50:32Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/33martyr/drvscan?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-21T17:02:48Z | 最后更新: 2026-10-21T17:02:54Z</description>
+      <pubDate>2026-10-21T21:09:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792616968</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Mr-Green013/mitre-attack-playbooks</title>
       <link>https://github.com/Mr-Green013/mitre-attack-playbooks</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-21T16:01:04Z | 最后更新: 2026-10-21T16:01:21Z</description>
@@ -120293,6 +120398,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 16:29:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:09:28 GMT</lastBuildDate>
   </channel>
 </rss>
