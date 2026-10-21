@@ -2,6 +2,125 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Mr-Green013/mitre-attack-playbooks</title>
+      <link>https://github.com/Mr-Green013/mitre-attack-playbooks</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-21T16:01:04Z | 最后更新: 2026-10-21T16:01:21Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Mr-Green013/mitre-attack-playbooks?new=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MMariasik/BYOVD_GIOSYS</title>
+      <link>https://github.com/MMariasik/BYOVD_GIOSYS</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Program utilizing vulnerable driver Gio.sys to elevate privileges into NT Authority/System | 最后推送: 2026-10-21T15:43:49Z | 最后更新: 2026-10-21T15:45:09Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MMariasik/BYOVD_GIOSYS?new=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 33martyr/drvscan</title>
+      <link>https://github.com/33martyr/drvscan</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Driver Scanner | 最后推送: 2026-10-21T13:53:58Z | 最后更新: 2026-10-21T14:01:48Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/33martyr/drvscan?new=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: noSkcaHdat/BYOVD-FinalYear-Project-Phase1</title>
+      <link>https://github.com/noSkcaHdat/BYOVD-FinalYear-Project-Phase1</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-10-21T11:58:59Z | 最后更新: 2026-10-21T11:59:03Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/noSkcaHdat/BYOVD-FinalYear-Project-Phase1?new=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-21T16:21:50Z | 最后更新: 2026-10-21T16:22:00Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: amitvijayan/kql-threat-hunting</title>
+      <link>https://github.com/amitvijayan/kql-threat-hunting</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Threat hunting queries (Defender KQL + Splunk SPL), organized by technique | 最后推送: 2026-10-21T16:09:03Z | 最后更新: 2026-10-21T16:09:10Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/amitvijayan/kql-threat-hunting?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-21T16:01:54Z | 最后更新: 2026-10-21T16:01:36Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: montygulzar/replica</title>
+      <link>https://github.com/montygulzar/replica</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-21T15:34:05Z | 最后更新: 2026-10-21T15:36:29Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/montygulzar/replica?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ghshhf/skynet-fleet</title>
+      <link>https://github.com/ghshhf/skynet-fleet</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期） | 最后推送: 2026-10-21T15:23:24Z | 最后更新: 2026-10-21T15:26:37Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ghshhf/skynet-fleet?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-21T15:02:38Z | 最后更新: 2026-10-21T15:24:04Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mrhenrike/ADXPL-Forge</title>
+      <link>https://github.com/mrhenrike/ADXPL-Forge</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: ADXPL-Forge (AXF) — Active Directory exploitation framework. 219 modules across 25 categories for AD pentest and Red Team operations. | 最后推送: 2026-10-21T14:00:00Z | 最后更新: 2026-10-21T14:00:08Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mrhenrike/ADXPL-Forge?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-21T13:51:43Z | 最后更新: 2026-10-21T13:51:52Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an autonomous reverse engineering system. | 最后推送: 2026-10-21T13:50:27Z | 最后更新: 2026-10-21T13:50:32Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: danhowett/fx</title>
+      <link>https://github.com/danhowett/fx</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: fx -  A GUI based Incident Response tool for hunting financially motivated threat actor activity. | 最后推送: 2026-10-21T12:51:37Z | 最后更新: 2026-10-21T12:51:42Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/danhowett/fx?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
+      <link>https://github.com/aeterna/aeterna-rongroi</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T15:42:40Z | 最后更新: 2026-10-21T11:47:29Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-21T11:36:40Z | 最后更新: 2026-10-21T11:36:44Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-21T11:20:04Z | 最后更新: 2026-10-21T16:09:24Z</description>
+      <pubDate>2026-10-21T16:29:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792600182</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T09:36:20Z | 最后更新: 2026-10-21T09:36:19Z</description>
@@ -120174,6 +120293,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:29:42 GMT</lastBuildDate>
   </channel>
 </rss>
