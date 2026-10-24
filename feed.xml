@@ -2,6 +2,139 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: iQingshan/Toshell</title>
+      <link>https://github.com/iQingshan/Toshell</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: ToShell 是一个轻量 C2 框架，由 服务端（Team Server）+ Web 控制台 + 多平台植入端 组成，覆盖「生成载荷 → 会话管理 → 任务执行」的完整链路。单二进制即可部署整套服务，开箱即用。 | 最后推送: 2026-10-24T08:50:32Z | 最后更新: 2026-10-24T08:50:35Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/iQingshan/Toshell?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: ManifoldOps/manifold-operations</title>
+      <link>https://github.com/ManifoldOps/manifold-operations</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Vercel website code | 最后推送: 2026-10-24T08:36:16Z | 最后更新: 2026-10-24T08:40:05Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ManifoldOps/manifold-operations?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-10-24T05:58:10Z | 最后更新: 2026-10-24T08:37:14Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-10-24T03:36:52Z | 最后更新: 2026-10-24T03:36:57Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: cmachale14-eng/DayZESP</title>
+      <link>https://github.com/cmachale14-eng/DayZESP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DayZ external ESP + Aimbot with iqvw64e.sys BYOVD, ImGui overlay, BattlEye bypass | 最后推送: 2026-10-24T03:25:13Z | 最后更新: 2026-10-24T03:25:17Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/cmachale14-eng/DayZESP?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: hyne-lzh/Windows_PE_Inspector</title>
+      <link>https://github.com/hyne-lzh/Windows_PE_Inspector</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 分析Windows PE文件 | 最后推送: 2026-10-24T03:16:58Z | 最后更新: 2026-10-24T03:17:01Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hyne-lzh/Windows_PE_Inspector?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-10-24T03:01:55Z | 最后更新: 2026-10-24T03:02:00Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-24T10:06:38Z | 最后更新: 2026-10-24T10:06:42Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-10-24T10:03:49Z | 最后更新: 2026-10-24T10:03:54Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-10-24T10:03:46Z | 最后更新: 2026-10-24T10:03:51Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is a reverse engineering framework | 最后推送: 2026-10-24T09:46:11Z | 最后更新: 2026-10-24T09:46:15Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-24T09:44:45Z | 最后更新: 2026-10-24T09:44:48Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ghshhf/skynet-fleet</title>
+      <link>https://github.com/ghshhf/skynet-fleet</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期） | 最后推送: 2026-10-24T09:37:09Z | 最后更新: 2026-10-24T09:37:15Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ghshhf/skynet-fleet?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: JasonLn0711/JasonLn0711.github.io</title>
+      <link>https://github.com/JasonLn0711/JasonLn0711.github.io</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Astro-powered personal website and research portfolio for Jason Chia-Sheng Lin, covering trustworthy AI, speech intelligence, cybersecurity, and regulated AI systems. | 最后推送: 2026-10-24T09:16:38Z | 最后更新: 2026-10-24T09:16:42Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/JasonLn0711/JasonLn0711.github.io?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-24T07:49:55Z | 最后更新: 2026-10-24T07:50:02Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-10-24T06:32:10Z | 最后更新: 2026-10-24T06:32:13Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-24T04:18:40Z | 最后更新: 2026-10-24T04:18:44Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Shatoshinakamoto/KernelPatch</title>
+      <link>https://github.com/Shatoshinakamoto/KernelPatch</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-24T04:13:50Z | 最后更新: 2026-10-24T04:13:53Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Shatoshinakamoto/KernelPatch?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-24T03:41:40Z | 最后更新: 2026-10-24T03:41:44Z</description>
+      <pubDate>2026-10-24T10:09:50Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1792836590</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: SWORDIntel/Angryier</title>
       <link>https://github.com/SWORDIntel/Angryier</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: When you are absolutely furious your symbolic execution is taking too long and you just can't stand it anymore and you're not just angry you're angryier! | 最后推送: 2026-10-24T02:58:29Z | 最后更新: 2026-10-24T02:58:33Z</description>
@@ -46,7 +179,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-24T02:57:13Z | 最后更新: 2026-10-24T02:56:41Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-24T02:57:13Z | 最后更新: 2026-10-24T02:56:41Z</description>
       <pubDate>2026-10-24T03:00:48Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792810848</guid>
     </item>
@@ -438,7 +571,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-23T10:17:46Z | 最后更新: 2026-10-23T08:17:59Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-23T10:17:46Z | 最后更新: 2026-10-23T08:17:59Z</description>
       <pubDate>2026-10-23T10:54:59Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792752899</guid>
     </item>
@@ -522,7 +655,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-23T02:44:55Z | 最后更新: 2026-10-23T02:39:43Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-23T02:44:55Z | 最后更新: 2026-10-23T02:39:43Z</description>
       <pubDate>2026-10-23T03:04:54Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792724694</guid>
     </item>
@@ -753,7 +886,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T13:35:59Z | 最后更新: 2026-10-22T13:42:17Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T13:35:59Z | 最后更新: 2026-10-22T13:42:17Z</description>
       <pubDate>2026-10-22T16:30:19Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792686619</guid>
     </item>
@@ -893,7 +1026,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T06:40:03Z | 最后更新: 2026-10-22T05:07:20Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T06:40:03Z | 最后更新: 2026-10-22T05:07:20Z</description>
       <pubDate>2026-10-22T11:01:46Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792666906</guid>
     </item>
@@ -963,7 +1096,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T02:53:12Z | 最后更新: 2026-10-22T02:27:18Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-22T02:53:12Z | 最后更新: 2026-10-22T02:27:18Z</description>
       <pubDate>2026-10-22T03:01:03Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792638063</guid>
     </item>
@@ -1236,7 +1369,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T15:42:40Z | 最后更新: 2026-10-21T11:47:29Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T15:42:40Z | 最后更新: 2026-10-21T11:47:29Z</description>
       <pubDate>2026-10-21T16:29:42Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792600182</guid>
     </item>
@@ -1257,7 +1390,7 @@
     <item>
       <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T09:36:20Z | 最后更新: 2026-10-21T09:36:19Z</description>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-21T09:36:20Z | 最后更新: 2026-10-21T09:36:19Z</description>
       <pubDate>2026-10-21T11:02:55Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?new=1&amp;ts=1792580575</guid>
     </item>
@@ -2055,7 +2188,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-19T10:41:57Z | 最后更新: 2026-10-19T10:31:25Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-19T10:41:57Z | 最后更新: 2026-10-19T10:31:25Z</description>
       <pubDate>2026-10-19T11:55:01Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792410901</guid>
     </item>
@@ -2342,7 +2475,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T14:45:53Z | 最后更新: 2026-10-18T14:45:48Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T14:45:53Z | 最后更新: 2026-10-18T14:45:48Z</description>
       <pubDate>2026-10-18T15:16:29Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792336589</guid>
     </item>
@@ -2475,7 +2608,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T09:16:53Z | 最后更新: 2026-10-18T09:16:44Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T09:16:53Z | 最后更新: 2026-10-18T09:16:44Z</description>
       <pubDate>2026-10-18T10:16:03Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792318563</guid>
     </item>
@@ -2566,7 +2699,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T01:53:42Z | 最后更新: 2026-10-18T01:53:38Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-18T01:53:42Z | 最后更新: 2026-10-18T01:53:38Z</description>
       <pubDate>2026-10-18T02:44:01Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792291441</guid>
     </item>
@@ -2734,7 +2867,7 @@
     <item>
       <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-17T18:10:10Z | 最后更新: 2026-10-17T17:40:20Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-17T18:10:10Z | 最后更新: 2026-10-17T17:40:20Z</description>
       <pubDate>2026-10-17T19:59:47Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1792267187</guid>
     </item>
@@ -2769,7 +2902,7 @@
     <item>
       <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
-      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a &quot;clean&quot; verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-17T12:46:18Z | 最后更新: 2026-10-17T12:10:39Z</description>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-10-17T12:46:18Z | 最后更新: 2026-10-17T12:10:39Z</description>
       <pubDate>2026-10-17T14:51:06Z</pubDate>
       <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?new=1&amp;ts=1792248666</guid>
     </item>
@@ -27374,7 +27507,7 @@
     <item>
       <title>BYOVD🚀 新项目: yankywilson/gentlemen-ransomware-analysis</title>
       <link>https://github.com/yankywilson/gentlemen-ransomware-analysis</link>
-      <description>新发现的BYOVD/EDR对抗项目。描述: Full RE teardown of The Gentlemen ransomware (Storm-2697): X25519 + XChaCha20 crypto, first public documentation of the &quot;Gentlecloud&quot; anti-analysis gate, encrypted file format, campaign key extraction, and validated YARA/Sigma/KQL detections. TLP:CLEAR. | 最后推送: 2026-08-18T04:26:11Z | 最后更新: 2026-08-18T04:26:15Z</description>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Full RE teardown of The Gentlemen ransomware (Storm-2697): X25519 + XChaCha20 crypto, first public documentation of the "Gentlecloud" anti-analysis gate, encrypted file format, campaign key extraction, and validated YARA/Sigma/KQL detections. TLP:CLEAR. | 最后推送: 2026-08-18T04:26:11Z | 最后更新: 2026-08-18T04:26:15Z</description>
       <pubDate>2026-08-18T06:34:17Z</pubDate>
       <guid isPermaLink="true">https://github.com/yankywilson/gentlemen-ransomware-analysis?new=1&amp;ts=1787034857</guid>
     </item>
@@ -84704,14 +84837,14 @@
     <item>
       <title>BYOVD📢 更新: mooofin/God-of-War-Ragnarok</title>
       <link>https://github.com/mooofin/God-of-War-Ragnarok</link>
-      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: God of War Ragnarok - Cheat Engine Scripts &amp; Tools&quot; This repository contains Cheat Engine (CE) scripts, memory manipulation tools, and debugging utilities for modifying the single-player experience in God of War Ragnarok. These scripts enable advanced gameplay customizations, item modifications, and performance tweaks.   | 最后推送: 2026-03-29T05:26:12Z | 最后更新: 2026-03-29T08:03:13Z</description>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: God of War Ragnarok - Cheat Engine Scripts &amp; Tools" This repository contains Cheat Engine (CE) scripts, memory manipulation tools, and debugging utilities for modifying the single-player experience in God of War Ragnarok. These scripts enable advanced gameplay customizations, item modifications, and performance tweaks.   | 最后推送: 2026-03-29T05:26:12Z | 最后更新: 2026-03-29T08:03:13Z</description>
       <pubDate>2026-03-29T12:44:38Z</pubDate>
       <guid isPermaLink="true">https://github.com/mooofin/God-of-War-Ragnarok?updated=1&amp;ts=1774788279</guid>
     </item>
     <item>
       <title>BYOVD🚀 新项目: mooofin/God-of-War-Ragnarok</title>
       <link>https://github.com/mooofin/God-of-War-Ragnarok</link>
-      <description>新发现的BYOVD/EDR对抗项目。描述: God of War Ragnarok - Cheat Engine Scripts &amp; Tools&quot; This repository contains Cheat Engine (CE) scripts, memory manipulation tools, and debugging utilities for modifying the single-player experience in God of War Ragnarok. These scripts enable advanced gameplay customizations, item modifications, and performance tweaks.   | 最后推送: 2026-03-29T05:26:12Z | 最后更新: 2026-03-29T05:26:16Z</description>
+      <description>新发现的BYOVD/EDR对抗项目。描述: God of War Ragnarok - Cheat Engine Scripts &amp; Tools" This repository contains Cheat Engine (CE) scripts, memory manipulation tools, and debugging utilities for modifying the single-player experience in God of War Ragnarok. These scripts enable advanced gameplay customizations, item modifications, and performance tweaks.   | 最后推送: 2026-03-29T05:26:12Z | 最后更新: 2026-03-29T05:26:16Z</description>
       <pubDate>2026-03-29T06:58:20Z</pubDate>
       <guid isPermaLink="true">https://github.com/mooofin/God-of-War-Ragnarok?new=1&amp;ts=1774767500</guid>
     </item>
@@ -121427,6 +121560,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:09:51 GMT</lastBuildDate>
   </channel>
 </rss>
