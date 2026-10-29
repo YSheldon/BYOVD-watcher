@@ -2,6 +2,146 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-10-29T04:00:44Z | 最后更新: 2026-10-29T04:00:48Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: github star 分类汇总 | 最后推送: 2026-10-29T03:55:05Z | 最后更新: 2026-10-29T03:55:09Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: SecurityRonin/forensicnomicon</title>
+      <link>https://github.com/SecurityRonin/forensicnomicon</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: DFIR artifact catalog (6,554 artifacts, LOL/LOFL binaries, abusable sites) plus the normalized report vocabulary the SecurityRonin analyzer fleet shares — offline Rust library + 4n6query CLI | 最后推送: 2026-10-29T03:30:39Z | 最后更新: 2026-10-29T03:30:43Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SecurityRonin/forensicnomicon?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Blog posting | 最后推送: 2026-10-29T03:14:13Z | 最后更新: 2026-10-29T03:14:18Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-10-29T01:32:30Z | 最后更新: 2026-10-29T01:32:33Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: hiyfoeorihly/spiderman2-trainer</title>
+      <link>https://github.com/hiyfoeorihly/spiderman2-trainer</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Spider-Man 2 trainer: infinite health, unlimited focus, god mode, one-hit KO toggle for PC. | 最后推送: 2026-10-28T22:57:26Z | 最后更新: 2026-10-28T22:57:30Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hiyfoeorihly/spiderman2-trainer?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Ablation is an AI-assisted reverse engineering (AIARE) framework | 最后推送: 2026-10-28T22:36:14Z | 最后更新: 2026-10-29T03:43:57Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-10-28T19:48:56Z | 最后更新: 2026-10-28T19:49:01Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?new=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-10-29T03:43:07Z | 最后更新: 2026-10-29T03:43:11Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-29T03:02:34Z | 最后更新: 2026-10-29T03:02:10Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HydraDragonAntivirus/HydraDragonAntivirus</title>
+      <link>https://github.com/HydraDragonAntivirus/HydraDragonAntivirus</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | 最后推送: 2026-10-29T03:00:00Z | 最后更新: 2026-10-29T02:55:59Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HydraDragonAntivirus/HydraDragonAntivirus?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Nixon-H/adversarial-obfuscator</title>
+      <link>https://github.com/Nixon-H/adversarial-obfuscator</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Python code protector: obfuscation transforms (SSA/CFG/MBA), an encrypted loader with integrity and tamper checks, and per-customer licensing. Built to protect your own IP — not to evade security tooling. | 最后推送: 2026-10-29T02:23:50Z | 最后更新: 2026-10-29T02:23:54Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Nixon-H/adversarial-obfuscator?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-10-29T01:52:01Z | 最后更新: 2026-10-29T01:52:08Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-10-29T01:26:06Z | 最后更新: 2026-10-29T01:26:10Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Xinglanclever/XinSpect</title>
+      <link>https://github.com/Xinglanclever/XinSpect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 曦覽 XinSpect — 免費開源的 Windows 硬體驗機、監控、超頻與安全稽核工具：硬體／韌體／作業系統三源並列對帳，單一執行檔免安裝、預設唯讀、不上傳使用者資料 (WPF/.NET 10, AGPL-3.0) | 最后推送: 2026-10-28T23:34:28Z | 最后更新: 2026-10-28T23:34:33Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Xinglanclever/XinSpect?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: xiangyuyan0106-spec/my-github-watcher</title>
+      <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: auto get BYOVD KILLER PROJECT | 最后推送: 2026-10-28T22:28:13Z | 最后更新: 2026-10-28T22:28:17Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xiangyuyan0106-spec/my-github-watcher?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-10-28T22:18:08Z | 最后更新: 2026-10-28T22:18:14Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ghshhf/skynet-fleet</title>
+      <link>https://github.com/ghshhf/skynet-fleet</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期） | 最后推送: 2026-10-28T21:20:03Z | 最后更新: 2026-10-28T21:20:07Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ghshhf/skynet-fleet?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: BriPwn/Crowdstrike-DaC</title>
+      <link>https://github.com/BriPwn/Crowdstrike-DaC</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-10-28T20:27:53Z | 最后更新: 2026-10-28T20:27:57Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BriPwn/Crowdstrike-DaC?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 1llu50ry/mcp-gamehacking</title>
+      <link>https://github.com/1llu50ry/mcp-gamehacking</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: MCP (Model Context Protocol) server for game hacking &amp; reverse engineering. A structured knowledge base of 4,100+ skills with full source code archives, specialized agents, and workflow tools -- designed to be plugged into Claude, Cursor, or any MCP-compatible client. | 最后推送: 2026-10-28T16:12:00Z | 最后更新: 2026-10-28T20:39:56Z</description>
+      <pubDate>2026-10-29T04:02:03Z</pubDate>
+      <guid isPermaLink="true">https://github.com/1llu50ry/mcp-gamehacking?updated=1&amp;ts=1793246523</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: abraxas/veneficus</title>
       <link>https://github.com/abraxas/veneficus</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Super elite end-to-end implant 0day. Full kill-chain. Exploit, escalate, pivot, poison, persistence. | 最后推送: 2026-10-28T18:04:22Z | 最后更新: 2026-10-28T18:04:27Z</description>
@@ -123660,6 +123800,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:02:03 GMT</lastBuildDate>
   </channel>
 </rss>
