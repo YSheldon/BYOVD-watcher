@@ -2,6 +2,139 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: wesmar/ForceIO</title>
+      <link>https://github.com/wesmar/ForceIO</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: ForceIO: Standalone no-CRT C tool for minifilter-bypass file operations (delete/move/copy) on Windows 11. Routes kernel I/O below WdFilter.sys via WHCP-signed IObitUnlocker.sys. Atomic ephemeral SCM sessions, FDI/LZX in-memory decompression from application icon, build-time PE overlay checksum bypass. Full RE writeup with source and binaries | 最后推送: 2026-11-07T04:08:52Z | 最后更新: 2026-11-07T04:08:56Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/wesmar/ForceIO?new=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: github star 分类汇总 | 最后推送: 2026-11-07T04:08:05Z | 最后更新: 2026-11-07T04:08:09Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?new=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Blog posting | 最后推送: 2026-11-07T03:32:28Z | 最后更新: 2026-11-07T03:32:32Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?new=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrimsonGlory/wairz</title>
+      <link>https://github.com/CrimsonGlory/wairz</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A free (as in freedom) AI assisted firmware analysis tool | 最后推送: 2026-11-07T00:57:16Z | 最后更新: 2026-11-07T00:57:19Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrimsonGlory/wairz?new=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: NoCoolUserName/intel-to-improvements</title>
+      <link>https://github.com/NoCoolUserName/intel-to-improvements</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Local CTI workbench for reviewing intelligence, planning hunts, assessing Sigma rules, and tracking validation and coverage. | 最后推送: 2026-11-07T00:48:51Z | 最后更新: 2026-11-07T00:48:56Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/NoCoolUserName/intel-to-improvements?new=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Coraje187/Genesis-Seek</title>
+      <link>https://github.com/Coraje187/Genesis-Seek</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-07T04:17:42Z | 最后更新: 2026-11-07T04:17:44Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Coraje187/Genesis-Seek?updated=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-07T04:16:33Z | 最后更新: 2026-11-07T04:16:41Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: ghshhf/skynet-fleet</title>
+      <link>https://github.com/ghshhf/skynet-fleet</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 天网工程 · 个人设备编队与本地统一调用控制面（Windows-first 初期） | 最后推送: 2026-11-07T03:54:40Z | 最后更新: 2026-11-07T03:54:45Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ghshhf/skynet-fleet?updated=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kn-live-dbg</title>
+      <link>https://github.com/kernullist/kn-live-dbg</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driver to provide a WinDbg-like live kernel debugging experience from a TUI console. | 最后推送: 2026-11-07T03:49:05Z | 最后更新: 2026-11-07T03:49:09Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kn-live-dbg?updated=1&amp;ts=1794025098</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: seliyyah/windows-dfir-collector</title>
+      <link>https://github.com/seliyyah/windows-dfir-collector</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Blue-team Windows DFIR live-response collector in PowerShell. Captures memory, volatile state, registry, event logs, NTFS metadata and more in order of volatility, orchestrating KAPE, EZ Tools, Sysinternals and Velociraptor, with hashed, manifest-documented output. | 最后推送: 2026-11-07T03:18:04Z | 最后更新: 2026-11-07T03:18:08Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/seliyyah/windows-dfir-collector?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-07T01:51:22Z | 最后更新: 2026-11-07T04:01:19Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: My Awesome List | 最后推送: 2026-11-07T01:31:17Z | 最后更新: 2026-11-07T01:31:21Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Ablation is an AI-assisted reverse engineering (AIARE) framework | 最后推送: 2026-11-07T01:21:21Z | 最后更新: 2026-11-07T01:21:25Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Xinglanclever/XinSpect</title>
+      <link>https://github.com/Xinglanclever/XinSpect</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 曦覽 XinSpect — 免費開源的 Windows 硬體驗機、監控、超頻與安全稽核工具：硬體／韌體／作業系統三源並列對帳，單一執行檔免安裝、預設唯讀、不上傳使用者資料 (WPF/.NET 10, AGPL-3.0) | 最后推送: 2026-11-07T01:05:09Z | 最后更新: 2026-11-07T03:56:43Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Xinglanclever/XinSpect?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Nixon-H/adversarial-obfuscator</title>
+      <link>https://github.com/Nixon-H/adversarial-obfuscator</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Python code protector: obfuscation transforms (SSA/CFG/MBA), an encrypted loader with integrity and tamper checks, and per-customer licensing. Built to protect your own IP — not to evade security tooling. | 最后推送: 2026-11-07T00:48:42Z | 最后更新: 2026-11-07T00:48:47Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Nixon-H/adversarial-obfuscator?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: RanaKhan77/awesome-cyber-security-heaven</title>
+      <link>https://github.com/RanaKhan77/awesome-cyber-security-heaven</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security. Free, open-source &amp; free-tier. License-verified. | 最后推送: 2026-11-06T23:41:14Z | 最后更新: 2026-11-06T23:41:18Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RanaKhan77/awesome-cyber-security-heaven?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-06T22:47:54Z | 最后更新: 2026-11-06T22:47:58Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-06T20:42:43Z | 最后更新: 2026-11-07T01:05:18Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: afu-it/wa-zip-cleaner</title>
+      <link>https://github.com/afu-it/wa-zip-cleaner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni scan dan buang malware tu (ValleyRAT / Winos 4.0 / Silver Fox). Copy paste 1 line je. | 最后推送: 2026-11-06T10:56:58Z | 最后更新: 2026-11-07T02:27:40Z</description>
+      <pubDate>2026-11-07T04:18:18Z</pubDate>
+      <guid isPermaLink="true">https://github.com/afu-it/wa-zip-cleaner?updated=1&amp;ts=1794025099</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: RanaKhan77/awesome-cyber-security-heaven</title>
       <link>https://github.com/RanaKhan77/awesome-cyber-security-heaven</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security. Free, open-source &amp; free-tier. License-verified. | 最后推送: 2026-11-06T22:21:54Z | 最后更新: 2026-11-06T22:21:59Z</description>
@@ -127601,6 +127734,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 22:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:18:19 GMT</lastBuildDate>
   </channel>
 </rss>
