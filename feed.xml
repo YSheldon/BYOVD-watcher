@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-13T13:02:45Z | 最后更新: 2026-11-09T19:27:13Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-11-13T12:20:14Z | 最后更新: 2026-11-08T16:37:33Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
+      <link>https://github.com/aeterna/aeterna-rongroi</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-11-13T12:14:43Z | 最后更新: 2026-11-10T23:15:57Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: yunlilun/TrustedInstallerManager_TIMR</title>
+      <link>https://github.com/yunlilun/TrustedInstallerManager_TIMR</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 适用于Windows x64的提权工具 | 最后推送: 2026-11-13T12:07:30Z | 最后更新: 2026-11-13T11:44:55Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yunlilun/TrustedInstallerManager_TIMR?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: v8k6b2jjps-prog/PPLcontrol</title>
+      <link>https://github.com/v8k6b2jjps-prog/PPLcontrol</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: POC ps1 library to explore kernel option | 最后推送: 2026-11-13T12:06:42Z | 最后更新: 2026-10-25T23:26:22Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/v8k6b2jjps-prog/PPLcontrol?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: NeroMinddd/NErO</title>
+      <link>https://github.com/NeroMinddd/NErO</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-13T11:45:10Z | 最后更新: 2026-11-05T10:15:33Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/NeroMinddd/NErO?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: herebedragonsio/damn-vulnerable-windows-driver</title>
+      <link>https://github.com/herebedragonsio/damn-vulnerable-windows-driver</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This is an intentionally vulnerable Windows driver. It can be used for demo exploitation or driver reverse engineering. | 最后推送: 2026-11-13T09:15:44Z | 最后更新: 2026-11-02T07:31:28Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/herebedragonsio/damn-vulnerable-windows-driver?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager</title>
+      <link>https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-13T07:54:45Z | 最后更新: 2026-11-13T12:56:19Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Rashad635/Malware-Analysis-Report-BYOVD-Process-Injection-Cryptojacking-Stager?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-11-13T07:09:12Z | 最后更新: 2026-11-12T11:28:56Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Twodragon0</title>
+      <link>https://github.com/Twodragon0/Twodragon0</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Profile README | 最后推送: 2026-11-13T06:54:22Z | 最后更新: 2026-11-12T08:21:47Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Twodragon0?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-11-13T04:48:07Z | 最后更新: 2026-11-12T06:30:36Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 1llu50ry/mcp-reverse</title>
+      <link>https://github.com/1llu50ry/mcp-reverse</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: MCP (Model Context Protocol) server for game hacking &amp; reverse engineering. A structured knowledge base of 4,100+ skills with full source code archives, specialized agents, and workflow tools -- designed to be plugged into Claude, Cursor, or any MCP-compatible client. | 最后推送: 2026-11-12T23:45:54Z | 最后更新: 2026-11-13T11:13:49Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/1llu50ry/mcp-reverse?new=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-13T07:55:21Z | 最后更新: 2026-11-13T09:21:16Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1794577760</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: grimh3xx/drvaudit</title>
+      <link>https://github.com/grimh3xx/drvaudit</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Read-only kernel driver auditor: LOLDrivers + Microsoft blocklist (Authenticode), hidden LKM detection, baseline drift — Rust | 最后推送: 2026-11-13T03:19:55Z | 最后更新: 2026-11-13T12:56:51Z</description>
+      <pubDate>2026-11-13T13:49:20Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grimh3xx/drvaudit?updated=1&amp;ts=1794577761</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: hediondom/Curso_Reversing</title>
       <link>https://github.com/hediondom/Curso_Reversing</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Curso en español sobre reversing de Windows | 最后推送: 2026-11-13T04:19:07Z | 最后更新: 2026-11-13T03:06:00Z</description>
@@ -129960,6 +130058,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:49:21 GMT</lastBuildDate>
   </channel>
 </rss>
