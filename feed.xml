@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: hediondom/Curso_Reversing</title>
+      <link>https://github.com/hediondom/Curso_Reversing</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curso en español sobre reversing de Windows | 最后推送: 2026-11-13T04:19:07Z | 最后更新: 2026-11-13T03:06:00Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hediondom/Curso_Reversing?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Blog posting | 最后推送: 2026-11-13T03:53:52Z | 最后更新: 2026-11-12T05:41:28Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: grimh3xx/drvaudit</title>
+      <link>https://github.com/grimh3xx/drvaudit</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Read-only kernel driver auditor: LOLDrivers + Microsoft blocklist (Authenticode), hidden LKM detection, baseline drift — Rust | 最后推送: 2026-11-13T03:19:55Z | 最后更新: 2026-11-13T03:10:43Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/grimh3xx/drvaudit?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: My Awesome List | 最后推送: 2026-11-13T01:17:59Z | 最后更新: 2026-11-12T04:15:57Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: xyz22x/xyz22x</title>
+      <link>https://github.com/xyz22x/xyz22x</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-12T22:07:01Z | 最后更新: 2026-10-27T05:27:03Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xyz22x/xyz22x?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 10fax01/LenWinRing0</title>
+      <link>https://github.com/10fax01/LenWinRing0</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LenWinRing0, a Lenovo WinRing0 Clone BYOVD | 最后推送: 2026-11-12T21:10:16Z | 最后更新: 2026-11-12T21:11:05Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/10fax01/LenWinRing0?new=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-13T01:54:37Z | 最后更新: 2026-11-12T21:44:17Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: afu-it/wa-zip-cleaner</title>
+      <link>https://github.com/afu-it/wa-zip-cleaner</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni scan dan buang malware tu (ValleyRAT / Winos 4.0 / Silver Fox). Copy paste 1 line je. | 最后推送: 2026-11-12T15:46:54Z | 最后更新: 2026-11-12T23:49:45Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/afu-it/wa-zip-cleaner?updated=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-12T14:48:12Z | 最后更新: 2026-11-13T00:21:41Z</description>
+      <pubDate>2026-11-13T04:45:54Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1794545154</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: CKCat/feed</title>
       <link>https://github.com/CKCat/feed</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-12T17:58:36Z | 最后更新: 2026-11-12T10:17:06Z</description>
@@ -129897,6 +129960,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:27:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:45:54 GMT</lastBuildDate>
   </channel>
 </rss>
