@@ -2,6 +2,41 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: github star 分类汇总 | 最后推送: 2026-11-14T04:31:34Z | 最后更新: 2026-11-12T06:21:43Z</description>
+      <pubDate>2026-11-14T04:40:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?new=1&amp;ts=1794631224</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Blog posting | 最后推送: 2026-11-14T03:52:30Z | 最后更新: 2026-11-12T05:41:28Z</description>
+      <pubDate>2026-11-14T04:40:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?new=1&amp;ts=1794631224</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: RanaKhan77/awesome-cyber-security-heaven</title>
+      <link>https://github.com/RanaKhan77/awesome-cyber-security-heaven</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security. Free, open-source &amp; free-tier. License-verified. | 最后推送: 2026-11-14T02:38:43Z | 最后更新: 2026-11-12T09:15:52Z</description>
+      <pubDate>2026-11-14T04:40:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RanaKhan77/awesome-cyber-security-heaven?new=1&amp;ts=1794631224</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/Defender-XDR-Engineering</title>
+      <link>https://github.com/nguyentimmy/Defender-XDR-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-11-14T01:48:31Z | 最后更新: 2026-11-11T00:51:38Z</description>
+      <pubDate>2026-11-14T04:40:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/Defender-XDR-Engineering?new=1&amp;ts=1794631224</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enestaha0434/suite</title>
+      <link>https://github.com/enestaha0434/suite</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-14T00:11:19Z | 最后更新: 2026-11-14T00:11:23Z</description>
+      <pubDate>2026-11-14T04:40:24Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enestaha0434/suite?new=1&amp;ts=1794631224</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: wesmar/kvc</title>
       <link>https://github.com/wesmar/kvc</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS. | 最后推送: 2026-11-13T23:03:16Z | 最后更新: 2026-11-13T05:08:07Z</description>
@@ -130149,6 +130184,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:40:24 GMT</lastBuildDate>
   </channel>
 </rss>
