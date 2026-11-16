@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: angelmisael-sec/security-homelab</title>
+      <link>https://github.com/angelmisael-sec/security-homelab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-16T14:27:45Z | 最后更新: 2026-11-09T23:38:26Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/angelmisael-sec/security-homelab?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: g4bri-3l3/HostBadger</title>
+      <link>https://github.com/g4bri-3l3/HostBadger</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows host hardening auditor and remediation tool in PowerShell: CIS, DISA STIG, Essential Eight checks, reversible fixes, optional AI analysis | 最后推送: 2026-11-16T10:31:23Z | 最后更新: 2026-11-16T08:46:57Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/g4bri-3l3/HostBadger?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-16T10:08:34Z | 最后更新: 2026-11-16T13:21:19Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: dexteon/winhostpeas</title>
+      <link>https://github.com/dexteon/winhostpeas</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Read-only Windows security posture audit in PowerShell. A blue team refit of winPEAS for Windows Server and Windows 10/11, with IIS checks, redacted secret detection, severity-rated findings with fixes, and JSON, CSV and HTML reports. | 最后推送: 2026-11-16T10:08:07Z | 最后更新: 2026-11-12T01:52:08Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/dexteon/winhostpeas?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CrimsonGlory/wairz</title>
+      <link>https://github.com/CrimsonGlory/wairz</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A free (as in freedom) AI assisted firmware analysis tool | 最后推送: 2026-11-16T08:00:09Z | 最后更新: 2026-11-15T00:09:40Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CrimsonGlory/wairz?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: thanhhao06/Artifact-Collector</title>
+      <link>https://github.com/thanhhao06/Artifact-Collector</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A lightweight tool for collecting, organizing, and viewing extracted artifact/report files with a clean HTML interface. | 最后推送: 2026-11-16T07:37:39Z | 最后更新: 2026-11-10T13:17:34Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/thanhhao06/Artifact-Collector?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: afu-it/wa-zip-cleaner</title>
+      <link>https://github.com/afu-it/wa-zip-cleaner</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Terbuka fail 'Click here to view.zip' dari WhatsApp kat PC Windows? Tool free ni scan dan buang malware tu (ValleyRAT / Winos 4.0 / Silver Fox). Copy paste 1 line je. | 最后推送: 2026-11-16T07:22:08Z | 最后更新: 2026-11-14T08:23:00Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/afu-it/wa-zip-cleaner?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-11-16T06:51:45Z | 最后更新: 2026-11-12T11:28:56Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: jhon2f/fortnite-ac-reversal</title>
+      <link>https://github.com/jhon2f/fortnite-ac-reversal</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EOS), Fortnite's own integrity layer, HWID / fingerprint surface, ban-trace cleaner map, and EAC emulation PoC. Current-build (late-2026). | 最后推送: 2026-11-16T06:47:03Z | 最后更新: 2026-11-16T05:57:39Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jhon2f/fortnite-ac-reversal?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: RealSyferX/LegendScan</title>
+      <link>https://github.com/RealSyferX/LegendScan</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A Kernel Cheat Engine Alike with Strong Similarity Have Pointer Scan, Module, Save Table BUT with KERNEL - Used to be Private now it's Open Source | 最后推送: 2026-11-16T06:08:21Z | 最后更新: 2026-11-16T06:41:36Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RealSyferX/LegendScan?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-16T05:44:46Z | 最后更新: 2026-11-15T16:02:01Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: hediondom/Curso_Reversing</title>
+      <link>https://github.com/hediondom/Curso_Reversing</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curso en español sobre reversing de Windows | 最后推送: 2026-11-16T05:22:04Z | 最后更新: 2026-11-13T03:06:00Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/hediondom/Curso_Reversing?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-11-16T04:29:01Z | 最后更新: 2026-11-12T06:30:36Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-16T14:30:42Z | 最后更新: 2026-11-16T13:00:40Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: FzRsLLaSheR/TheWatcher</title>
+      <link>https://github.com/FzRsLLaSheR/TheWatcher</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Automated GitHub surveillance for BYOVD, EDR evasion, and kernel exploit research — running silently, every 6 hours. | 最后推送: 2026-11-16T05:18:50Z | 最后更新: 2026-11-16T14:22:14Z</description>
+      <pubDate>2026-11-16T14:35:01Z</pubDate>
+      <guid isPermaLink="true">https://github.com/FzRsLLaSheR/TheWatcher?updated=1&amp;ts=1794839701</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: nodecoda/Learning-with-Claude</title>
       <link>https://github.com/nodecoda/Learning-with-Claude</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 个人学习教材库：AI 编译器 / LLVM 后端 / 系统方向的多章课程（简体中文） | 最后推送: 2026-11-16T04:24:53Z | 最后更新: 2026-11-08T15:59:37Z</description>
@@ -130604,6 +130709,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 04:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:35:01 GMT</lastBuildDate>
   </channel>
 </rss>
