@@ -2,6 +2,62 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: nodecoda/Learning-with-Claude</title>
+      <link>https://github.com/nodecoda/Learning-with-Claude</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 个人学习教材库：AI 编译器 / LLVM 后端 / 系统方向的多章课程（简体中文） | 最后推送: 2026-11-16T04:24:53Z | 最后更新: 2026-11-08T15:59:37Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nodecoda/Learning-with-Claude?new=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: kj299/doze_sec</title>
+      <link>https://github.com/kj299/doze_sec</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-16T01:48:38Z | 最后更新: 2026-11-12T12:28:26Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kj299/doze_sec?new=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Autonomous Rust EDR, 7-Ring Cedar AI Agent Containment Mesh, eBPF/ETW Kernel Telemetry &amp; Binary Reverse Engineering Platform | 最后推送: 2026-11-16T01:01:26Z | 最后更新: 2026-11-10T08:35:10Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?new=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: xgfhh0x11/xgfhh0x11</title>
+      <link>https://github.com/xgfhh0x11/xgfhh0x11</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-16T00:44:23Z | 最后更新: 2026-10-16T22:22:28Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/xgfhh0x11/xgfhh0x11?new=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Leksa667/DragonReverse-Universal-Windows-Attack-Surface-Triage-IDA-Pro-Plugin-PoC-Scaffolder</title>
+      <link>https://github.com/Leksa667/DragonReverse-Universal-Windows-Attack-Surface-Triage-IDA-Pro-Plugin-PoC-Scaffolder</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Advanced IDA Pro plugin for automated vulnerability triage across the entire Windows attack surface. Deep-scans Drivers (IOCTL), SYSTEM Services (RPC/ALPC/COM), and Hypervisors (Hypercalls/VMBus). Automatically reconstructs C structures and exports ready-to-build Visual Studio 2022 PoC projects. | 最后推送: 2026-11-15T23:40:31Z | 最后更新: 2026-11-11T22:26:19Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Leksa667/DragonReverse-Universal-Windows-Attack-Surface-Triage-IDA-Pro-Plugin-PoC-Scaffolder?new=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-16T01:53:07Z | 最后更新: 2026-11-16T04:16:11Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: RanaKhan77/awesome-cyber-security-heaven</title>
+      <link>https://github.com/RanaKhan77/awesome-cyber-security-heaven</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Awesome Cyber Security Heaven — one of the larger curated lists of free cybersecurity resources: pentest, OSINT, threat intel, DFIR, DevSecOps, AI/LLM security. Free, open-source &amp; free-tier. License-verified. | 最后推送: 2026-11-15T22:14:08Z | 最后更新: 2026-11-15T22:36:36Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/RanaKhan77/awesome-cyber-security-heaven?updated=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: kernullist/kndbgx</title>
+      <link>https://github.com/kernullist/kndbgx</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-15T14:38:31Z | 最后更新: 2026-11-16T00:17:12Z</description>
+      <pubDate>2026-11-16T04:27:13Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kndbgx?updated=1&amp;ts=1794803233</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: onur-uyar-security/t1562-impair-defenses-detections</title>
       <link>https://github.com/onur-uyar-security/t1562-impair-defenses-detections</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-15T20:08:49Z | 最后更新: 2026-10-21T18:53:39Z</description>
@@ -130548,6 +130604,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:27:14 GMT</lastBuildDate>
   </channel>
 </rss>
