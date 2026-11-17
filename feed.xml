@@ -2,6 +2,97 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: visiongaiatechnology/gedefensewin</title>
+      <link>https://github.com/visiongaiatechnology/gedefensewin</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: GeDefense Titan: local, sovereign Windows 11 security console. Unifies Defender, ASR, WFP firewall, App Control, hardening, MHX EDR/XDR, threat intelligence and offline GeoIP/ASN - with a local-only control plane and HMAC-chained evidence ledger. No cloud control plane or silent telemetry. | 最后推送: 2026-11-16T23:06:53Z | 最后更新: 2026-10-29T20:01:04Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/visiongaiatechnology/gedefensewin?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Barnes70/TLCTC</title>
+      <link>https://github.com/Barnes70/TLCTC</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Top Level Cyber Threat Clusters Reference | 最后推送: 2026-11-16T21:03:47Z | 最后更新: 2026-11-11T21:59:23Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Barnes70/TLCTC?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-16T20:16:20Z | 最后更新: 2026-11-11T17:51:58Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: 269s/Vuln-Driver-Mapper</title>
+      <link>https://github.com/269s/Vuln-Driver-Mapper</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE-2026-38194 Documented Vuln | 最后推送: 2026-11-16T19:06:41Z | 最后更新: 2026-11-16T19:06:46Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/269s/Vuln-Driver-Mapper?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/Defender-XDR-Engineering</title>
+      <link>https://github.com/nguyentimmy/Defender-XDR-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-11-16T17:44:31Z | 最后更新: 2026-11-11T00:51:38Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/Defender-XDR-Engineering?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: CJam76/KAC-Demonstrator-</title>
+      <link>https://github.com/CJam76/KAC-Demonstrator-</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Simple Kernel Level Anticheat demonstrator for class project, made with google antigravity. | 最后推送: 2026-11-16T16:40:56Z | 最后更新: 2026-11-16T16:41:01Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/CJam76/KAC-Demonstrator-?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: roj234/SbiePatch</title>
+      <link>https://github.com/roj234/SbiePatch</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Driver-level (BYOVD) Sandboxie-Plus patch. No MSVC/WDK required. Only 100MB toolchain | 最后推送: 2026-11-16T16:14:24Z | 最后更新: 2026-11-16T17:14:29Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/roj234/SbiePatch?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mescobarcl/jadi</title>
+      <link>https://github.com/mescobarcl/jadi</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Offline vulnerability scanner for mounted backups and live filesystems. 12 ecosystem scanners, 418K+ vulnerabilities (NVD, OSV, GHSA, MSRC, KEV), 7 output formats including vScan compatible JSON. | 最后推送: 2026-11-16T15:53:11Z | 最后更新: 2026-06-25T20:57:46Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mescobarcl/jadi?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sauravbhattacharya001/WinSentinel</title>
+      <link>https://github.com/sauravbhattacharya001/WinSentinel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Open-core Windows security auditing with 64 audit modules — hardening, misconfiguration, and threat checks. Free CLI &amp; Core on NuGet · winsentinel.ai | 最后推送: 2026-11-16T15:43:43Z | 最后更新: 2026-11-09T15:07:59Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sauravbhattacharya001/WinSentinel?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: ZeroMemoryEx/Blackout</title>
+      <link>https://github.com/ZeroMemoryEx/Blackout</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: kill anti-malware protected processes ( BYOVD )  | 最后推送: 2026-11-16T15:16:19Z | 最后更新: 2026-11-13T07:59:41Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/ZeroMemoryEx/Blackout?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-16T14:25:52Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-17T01:17:56Z | 最后更新: 2026-11-16T23:30:43Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-17T00:32:50Z | 最后更新: 2026-11-17T01:27:52Z</description>
+      <pubDate>2026-11-17T01:28:34Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1794878914</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: angelmisael-sec/security-homelab</title>
       <link>https://github.com/angelmisael-sec/security-homelab</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-16T14:27:45Z | 最后更新: 2026-11-09T23:38:26Z</description>
@@ -130709,6 +130800,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:28:35 GMT</lastBuildDate>
   </channel>
 </rss>
