@@ -2,6 +2,76 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: BootSkiing/capabilities</title>
+      <link>https://github.com/BootSkiing/capabilities</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A slopped together collection of ALLCAPs capabilities and configs | 最后推送: 2026-11-18T21:36:16Z | 最后更新: 2026-11-18T21:34:19Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BootSkiing/capabilities?new=1&amp;ts=1795045755</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-11-18T21:19:34Z | 最后更新: 2026-11-08T16:37:33Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?new=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-11-18T20:59:17Z | 最后更新: 2026-11-11T17:00:19Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: metalx1993/loldex</title>
+      <link>https://github.com/metalx1993/loldex</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Unified index of living-off-the-land techniques across Linux, Windows &amp; Active Directory — aggregating GTFOBins, LOLBAS, LOLAD &amp; WADComs. | 最后推送: 2026-11-18T18:01:02Z | 最后更新: 2026-11-14T06:18:41Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/metalx1993/loldex?new=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Gruya13/WIS</title>
+      <link>https://github.com/Gruya13/WIS</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows Installation Assistant (WIS) v2.17.0 — Zero-Touch Windows 11 Pro Deployment, Hardware Diagnostics, Autopilot Forensics &amp; Fleet Telemetry Hub | 最后推送: 2026-11-18T17:38:13Z | 最后更新: 2026-11-14T15:24:34Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gruya13/WIS?new=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-18T14:53:37Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-18T23:39:57Z | 最后更新: 2026-11-18T17:10:15Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-18T20:11:31Z | 最后更新: 2026-11-18T23:44:42Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-18T20:04:05Z | 最后更新: 2026-11-18T19:53:07Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: g4bri-3l3/HostBadger</title>
+      <link>https://github.com/g4bri-3l3/HostBadger</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Windows host hardening auditor and remediation tool in PowerShell: CIS, DISA STIG, Essential Eight checks, reversible fixes, optional AI analysis | 最后推送: 2026-11-18T13:02:41Z | 最后更新: 2026-11-18T21:17:31Z</description>
+      <pubDate>2026-11-18T23:49:15Z</pubDate>
+      <guid isPermaLink="true">https://github.com/g4bri-3l3/HostBadger?updated=1&amp;ts=1795045756</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
       <link>https://github.com/aeterna/aeterna-rongroi</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-11-18T14:51:38Z | 最后更新: 2026-11-13T22:55:28Z</description>
@@ -131087,6 +131157,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:49:16 GMT</lastBuildDate>
   </channel>
 </rss>
