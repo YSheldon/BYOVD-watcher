@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: elvys9/Powershell-Vulnerability-Scanner</title>
+      <link>https://github.com/elvys9/Powershell-Vulnerability-Scanner</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Read-only Windows 11 (Home/Pro) security configuration scanner in PowerShell 5.1 &amp; WPF. Audits 18 CIS-aligned security controls with JSON/HTML export. | 最后推送: 2026-11-19T14:49:35Z | 最后更新: 2026-11-19T13:18:24Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/elvys9/Powershell-Vulnerability-Scanner?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: SWORDIntel/Angryier</title>
+      <link>https://github.com/SWORDIntel/Angryier</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: When you are absolutely furious your symbolic execution is taking too long and you just can't stand it anymore and you're not just angry you're angryier! | 最后推送: 2026-11-19T14:49:02Z | 最后更新: 2026-11-12T18:35:25Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/SWORDIntel/Angryier?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: brucesongs/kali-claw</title>
+      <link>https://github.com/brucesongs/kali-claw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: kali-claw is a self-evolving security agent from the OpenClaw project. It operates 24/7 on Kali Linux, systematically learning and practicing penetration testing across 49 security domains. It thinks like a hacker — first principles, divergent thinking, assume breach — and acts like a senior engineer: direct, hands-on, results-driven. | 最后推送: 2026-11-19T14:29:41Z | 最后更新: 2026-11-19T11:58:13Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/brucesongs/kali-claw?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: jp101216/LiveResponse-NG</title>
+      <link>https://github.com/jp101216/LiveResponse-NG</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows and Linux live-response and DFIR toolkit: guided analyst console, MITRE ATT&amp;CK-mapped detections, memory forensics, Sigma/YARA support, evidence graphs, timelines, offline case review, analyst handoffs, AI-agent security checks, and LLMjacking cloud-audit analysis. Go + Rust. | 最后推送: 2026-11-19T13:59:54Z | 最后更新: 2026-11-12T13:22:42Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jp101216/LiveResponse-NG?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-19T12:54:49Z | 最后更新: 2026-11-16T16:34:09Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: d0tju1ce/ransomwareChecker</title>
+      <link>https://github.com/d0tju1ce/ransomwareChecker</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Portable read-only Windows triage of persistence and post-exploitation artifacts after a ransomware attack | 最后推送: 2026-11-19T11:27:09Z | 最后更新: 2026-11-03T19:47:19Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/d0tju1ce/ransomwareChecker?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-11-19T09:39:59Z | 最后更新: 2026-11-02T07:30:53Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: lgfire093/L4G-Undetected</title>
+      <link>https://github.com/lgfire093/L4G-Undetected</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-19T09:20:34Z | 最后更新: 2026-11-19T08:58:12Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lgfire093/L4G-Undetected?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: jhon2f/fortnite-ac-reversal</title>
+      <link>https://github.com/jhon2f/fortnite-ac-reversal</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Reverse-engineering notes on Fortnite's full anti-cheat stack: EAC (classic + EOS), Fortnite's own integrity layer, HWID / fingerprint surface, ban-trace cleaner map, and EAC emulation PoC. Current-build (late-2026). | 最后推送: 2026-11-19T09:06:39Z | 最后更新: 2026-11-17T01:50:49Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jhon2f/fortnite-ac-reversal?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-11-19T07:45:41Z | 最后更新: 2026-11-17T12:31:01Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: chen0430tw/ParadexMonitor</title>
+      <link>https://github.com/chen0430tw/ParadexMonitor</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Paradex Process Monitor — binary reconstruction &amp; kernel inspection platform | 最后推送: 2026-11-19T06:29:21Z | 最后更新: 2026-04-12T09:40:25Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/chen0430tw/ParadexMonitor?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-11-19T05:41:10Z | 最后更新: 2026-11-12T06:30:36Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-19T14:40:35Z | 最后更新: 2026-11-19T13:02:32Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-19T14:01:30Z | 最后更新: 2026-11-19T12:52:23Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: Gruya13/WIS</title>
+      <link>https://github.com/Gruya13/WIS</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: IG-Systems Windows Installation Assistant (WIS v3.1.1 / ServiceHub v3.4.1) — Zero-Touch Windows 11 servisna automatizacija | 最后推送: 2026-11-19T14:27:36Z | 最后更新: 2026-11-19T12:51:40Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Gruya13/WIS?updated=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: memN0ps/memN0ps</title>
+      <link>https://github.com/memN0ps/memN0ps</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-19T08:20:56Z | 最后更新: 2026-11-19T08:21:34Z</description>
+      <pubDate>2026-11-19T15:06:57Z</pubDate>
+      <guid isPermaLink="true">https://github.com/memN0ps/memN0ps?updated=1&amp;ts=1795100817</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Nop3z/IOTsec-all-in-one</title>
       <link>https://github.com/Nop3z/IOTsec-all-in-one</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: 收集IOT安全相关资料 | 最后推送: 2026-11-19T05:26:59Z | 最后更新: 2026-11-18T13:59:11Z</description>
@@ -131206,6 +131318,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:06:57 GMT</lastBuildDate>
   </channel>
 </rss>
