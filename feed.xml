@@ -2,6 +2,55 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: Nop3z/IOTsec-all-in-one</title>
+      <link>https://github.com/Nop3z/IOTsec-all-in-one</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 收集IOT安全相关资料 | 最后推送: 2026-11-19T05:26:59Z | 最后更新: 2026-11-18T13:59:11Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Nop3z/IOTsec-all-in-one?new=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: My Awesome List | 最后推送: 2026-11-19T04:35:29Z | 最后更新: 2026-11-12T04:15:57Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?new=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: memN0ps/memN0ps</title>
+      <link>https://github.com/memN0ps/memN0ps</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-19T01:11:35Z | 最后更新: 2026-11-19T01:40:06Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/memN0ps/memN0ps?new=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Ablation is an AI-assisted reverse engineering (AIARE) framework | 最后推送: 2026-11-18T09:36:51Z | 最后更新: 2026-11-19T03:10:15Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?new=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: aeterna/aeterna-rongroi</title>
+      <link>https://github.com/aeterna/aeterna-rongroi</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-11-19T05:33:37Z | 最后更新: 2026-11-19T04:26:24Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?updated=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-19T05:15:26Z | 最后更新: 2026-11-19T01:04:03Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-19T01:55:27Z | 最后更新: 2026-11-19T05:30:40Z</description>
+      <pubDate>2026-11-19T05:39:42Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795066782</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: BootSkiing/capabilities</title>
       <link>https://github.com/BootSkiing/capabilities</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: A slopped together collection of ALLCAPs capabilities and configs | 最后推送: 2026-11-18T21:36:16Z | 最后更新: 2026-11-18T21:34:19Z</description>
@@ -131157,6 +131206,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 23:49:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:39:42 GMT</lastBuildDate>
   </channel>
 </rss>
