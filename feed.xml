@@ -2,6 +2,90 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: MarcBernaldo/Artifact-Engine</title>
+      <link>https://github.com/MarcBernaldo/Artifact-Engine</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Modular DFIR triage engine: extracts KAPE/UAC/Velociraptor acquisitions, runs 92 forensic parsers in parallel, consolidates to .db/.xlsx with a detection + lateral-movement layer | 最后推送: 2026-11-19T22:59:18Z | 最后更新: 2026-11-08T16:37:33Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/MarcBernaldo/Artifact-Engine?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: w3bcooki3/WinForensicX</title>
+      <link>https://github.com/w3bcooki3/WinForensicX</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-19T22:47:26Z | 最后更新: 2026-11-07T18:42:02Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/w3bcooki3/WinForensicX?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: moe-naj/htb_writeups</title>
+      <link>https://github.com/moe-naj/htb_writeups</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cyber Labs Writeups | 最后推送: 2026-11-19T19:33:15Z | 最后更新: 2026-11-11T17:00:19Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/moe-naj/htb_writeups?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/Defender-XDR-Engineering</title>
+      <link>https://github.com/nguyentimmy/Defender-XDR-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-11-19T19:18:53Z | 最后更新: 2026-11-11T00:51:38Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/Defender-XDR-Engineering?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-19T18:59:05Z | 最后更新: 2026-11-11T17:51:58Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: yPin9/Learning-with-Claude</title>
+      <link>https://github.com/yPin9/Learning-with-Claude</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-19T17:19:34Z | 最后更新: 2026-11-18T03:41:32Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yPin9/Learning-with-Claude?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: holmanholdings/lionguard</title>
+      <link>https://github.com/holmanholdings/lionguard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Cathedral-Grade Security for AI Agents. Attack vectors updated daily. Local-first, zero API cost. MIT licensed. | 最后推送: 2026-11-19T16:31:26Z | 最后更新: 2026-11-10T21:54:37Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/holmanholdings/lionguard?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-19T14:59:18Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-19T23:40:45Z | 最后更新: 2026-11-19T22:32:17Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: memN0ps/memN0ps</title>
+      <link>https://github.com/memN0ps/memN0ps</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-19T21:10:15Z | 最后更新: 2026-11-19T21:14:38Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/memN0ps/memN0ps?updated=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-19T19:59:16Z | 最后更新: 2026-11-19T21:37:45Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: killvxk/gitweekly</title>
+      <link>https://github.com/killvxk/gitweekly</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 收集各种有趣的github项目 | 最后推送: 2026-11-19T12:54:49Z | 最后更新: 2026-11-19T16:32:38Z</description>
+      <pubDate>2026-11-20T00:12:48Z</pubDate>
+      <guid isPermaLink="true">https://github.com/killvxk/gitweekly?updated=1&amp;ts=1795133568</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: elvys9/Powershell-Vulnerability-Scanner</title>
       <link>https://github.com/elvys9/Powershell-Vulnerability-Scanner</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Read-only Windows 11 (Home/Pro) security configuration scanner in PowerShell 5.1 &amp; WPF. Audits 18 CIS-aligned security controls with JSON/HTML export. | 最后推送: 2026-11-19T14:49:35Z | 最后更新: 2026-11-19T13:18:24Z</description>
@@ -131318,6 +131402,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:12:48 GMT</lastBuildDate>
   </channel>
 </rss>
