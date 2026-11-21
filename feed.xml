@@ -2,6 +2,69 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-21T21:25:35Z | 最后更新: 2026-11-21T16:19:21Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: mwemuorg/mwemu</title>
+      <link>https://github.com/mwemuorg/mwemu</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: x86 malware emulator | 最后推送: 2026-11-21T19:58:40Z | 最后更新: 2026-11-19T22:21:54Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mwemuorg/mwemu?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: llr-xxhh/logwarden</title>
+      <link>https://github.com/llr-xxhh/logwarden</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 中文应急响应日志排查工作台 · DuckDB 引擎 · 证据清单驱动 · AI 可直接操盘 | 最后推送: 2026-11-21T19:21:05Z | 最后更新: 2026-11-21T17:36:38Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/llr-xxhh/logwarden?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: AmenHermano144/Anti-cheat-Kernel-Driver</title>
+      <link>https://github.com/AmenHermano144/Anti-cheat-Kernel-Driver</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Anti cheat Kernel Driver for windows  | 最后推送: 2026-11-21T19:13:29Z | 最后更新: 2026-11-21T19:56:41Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AmenHermano144/Anti-cheat-Kernel-Driver?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: AgustinCblls/Curso_Reversing</title>
+      <link>https://github.com/AgustinCblls/Curso_Reversing</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curso en español sobre reversing de Windows | 最后推送: 2026-11-21T17:42:29Z | 最后更新: 2026-11-13T03:06:00Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AgustinCblls/Curso_Reversing?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-21T17:19:47Z | 最后更新: 2026-11-11T17:51:58Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: aeterna/aeterna-rongroi</title>
+      <link>https://github.com/aeterna/aeterna-rongroi</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Free, offline, open-source FiveM PC check &amp; screenshare (SS) tool — scans a Windows PC for cheat traces and shows the evidence, never a "clean" verdict. | โปรแกรมเช็คโปร/ตรวจเครื่อง FiveM ฟรี ทำงาน offline | 最后推送: 2026-11-21T16:47:36Z | 最后更新: 2026-11-19T04:26:24Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/aeterna/aeterna-rongroi?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-21T13:58:00Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: 1llu50ry/Decompile</title>
+      <link>https://github.com/1llu50ry/Decompile</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: MCP (Model Context Protocol) server for game hacking &amp; reverse engineering. A structured knowledge base of 6.000+ skills with full source code archives, specialized agents, and workflow tools - designed to be plugged into Claude, Codex, Cursor, or any MCP-compatible client. | 最后推送: 2026-11-21T20:07:32Z | 最后更新: 2026-11-21T21:50:23Z</description>
+      <pubDate>2026-11-21T22:42:28Z</pubDate>
+      <guid isPermaLink="true">https://github.com/1llu50ry/Decompile?updated=1&amp;ts=1795300948</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: Gruya13/WIS</title>
       <link>https://github.com/Gruya13/WIS</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: IG-Systems Windows Installation Assistant (WIS v3.1.1 / ServiceHub v3.4.1) — Zero-Touch Windows 11 servisna automatizacija | 最后推送: 2026-11-21T13:54:47Z | 最后更新: 2026-11-19T12:51:40Z</description>
@@ -131738,6 +131801,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:42:28 GMT</lastBuildDate>
   </channel>
 </rss>
