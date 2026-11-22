@@ -2,6 +2,104 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: visiongaiatechnology/gedefensewin</title>
+      <link>https://github.com/visiongaiatechnology/gedefensewin</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: GeDefense Titan: local, sovereign Windows 11 security console. Unifies Defender, ASR, WFP firewall, App Control, hardening, MHX EDR/XDR, threat intelligence and offline GeoIP/ASN - with a local-only control plane and HMAC-chained evidence ledger. No cloud control plane or silent telemetry. | 最后推送: 2026-11-22T13:50:14Z | 最后更新: 2026-10-29T20:01:04Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/visiongaiatechnology/gedefensewin?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: lasersharkkiller/MacaroniRocketsNextGenEDR</title>
+      <link>https://github.com/lasersharkkiller/MacaroniRocketsNextGenEDR</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: On a scale of one to America, this NextGen Norton Antivirus EDR just made enterprise-grade defense free. Built by a Norton, carrying forward a name rooted in cybersecurity history, reimagined for modern threats. | 最后推送: 2026-11-22T12:39:22Z | 最后更新: 2026-11-21T02:44:17Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/lasersharkkiller/MacaroniRocketsNextGenEDR?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: oyesanyf/AgentOctopus</title>
+      <link>https://github.com/oyesanyf/AgentOctopus</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Single-binary Rust deterministic agent containment runtime complementing google/agentmesh: AWS Cedar, Wasmtime, OS sandboxes, RT-ASP, universal all-OS kernel patcher &amp; zero-breakout shield, &lt;2ms pre-spawn REA gate, and UnifiedSecurityShield (SBOM + runtime guard). | 最后推送: 2026-11-22T11:49:05Z | 最后更新: 2026-11-22T11:49:14Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/AgentOctopus?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: jp101216/LiveResponse-NG</title>
+      <link>https://github.com/jp101216/LiveResponse-NG</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows and Linux live-response and DFIR toolkit: guided analyst console, MITRE ATT&amp;CK-mapped detections, memory forensics, Sigma/YARA support, evidence graphs, timelines, offline case review, analyst handoffs, AI-agent security checks, and LLMjacking cloud-audit analysis. Go + Rust. | 最后推送: 2026-11-22T11:36:47Z | 最后更新: 2026-11-12T13:22:42Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/jp101216/LiveResponse-NG?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: amitvijayan/kql-threat-hunting</title>
+      <link>https://github.com/amitvijayan/kql-threat-hunting</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Threat hunting queries (Defender KQL + Splunk SPL), organized by technique | 最后推送: 2026-11-22T10:59:39Z | 最后更新: 2026-11-12T12:14:28Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/amitvijayan/kql-threat-hunting?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: b1ank1108/awesome-stars</title>
+      <link>https://github.com/b1ank1108/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: my starred repositories, powered by LLM-Star-Classifier | 最后推送: 2026-11-22T10:30:18Z | 最后更新: 2026-11-15T09:26:55Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/b1ank1108/awesome-stars?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: febriyansyah-id/HACKTHEBOX</title>
+      <link>https://github.com/febriyansyah-id/HACKTHEBOX</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Retired Only — writeups &amp; notes for retired HTB machines/challenges/sherlocks/fortresses. No active content. | 最后推送: 2026-11-22T10:10:21Z | 最后更新: 2026-09-11T04:07:30Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/febriyansyah-id/HACKTHEBOX?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-11-22T08:05:58Z | 最后更新: 2026-11-02T07:30:53Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: baeley-canning/ApexLegends</title>
+      <link>https://github.com/baeley-canning/ApexLegends</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-22T07:44:48Z | 最后更新: 2026-11-12T09:14:47Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/baeley-canning/ApexLegends?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: zulloper/cve-poc</title>
+      <link>https://github.com/zulloper/cve-poc</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CVE POC repo 자동 수집기 | 最后推送: 2026-11-22T07:13:34Z | 最后更新: 2026-11-17T12:31:01Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/zulloper/cve-poc?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-11-22T04:47:38Z | 最后更新: 2026-11-19T22:31:14Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-22T13:53:17Z | 最后更新: 2026-11-22T10:05:33Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-22T13:40:04Z | 最后更新: 2026-11-22T05:47:29Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: yPin9/Learning-with-Claude</title>
+      <link>https://github.com/yPin9/Learning-with-Claude</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: No description | 最后推送: 2026-11-22T04:36:32Z | 最后更新: 2026-11-22T12:14:30Z</description>
+      <pubDate>2026-11-22T13:56:51Z</pubDate>
+      <guid isPermaLink="true">https://github.com/yPin9/Learning-with-Claude?updated=1&amp;ts=1795355811</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: J1ezds/some-star</title>
       <link>https://github.com/J1ezds/some-star</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: github star 分类汇总 | 最后推送: 2026-11-22T04:36:57Z | 最后更新: 2026-11-14T06:42:12Z</description>
@@ -131850,6 +131948,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 04:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:56:51 GMT</lastBuildDate>
   </channel>
 </rss>
