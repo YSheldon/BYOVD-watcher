@@ -2,6 +2,48 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: owlsecx/OAmcache</title>
+      <link>https://github.com/owlsecx/OAmcache</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: OAmcache is a Windows Amcache forensics tool with a native registry hive parser that extracts execution evidence,… | 最后推送: 2026-11-22T22:35:53Z | 最后更新: 2026-11-03T09:35:32Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/owlsecx/OAmcache?new=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-22T21:17:00Z | 最后更新: 2026-11-22T17:52:45Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?new=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-22T17:45:34Z | 最后更新: 2026-11-11T17:51:58Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: medhatsaif010/horus-intel</title>
+      <link>https://github.com/medhatsaif010/horus-intel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Signed threat-intel pack for Horus (CISA KEV, NVD, endoflife.date, Windows builds, LOLDrivers), rebuilt daily. | 最后推送: 2026-11-22T15:37:17Z | 最后更新: 2026-11-06T21:45:21Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/medhatsaif010/horus-intel?new=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-22T13:51:52Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-22T22:39:13Z | 最后更新: 2026-11-22T21:12:55Z</description>
+      <pubDate>2026-11-22T23:08:04Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795388884</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: visiongaiatechnology/gedefensewin</title>
       <link>https://github.com/visiongaiatechnology/gedefensewin</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: GeDefense Titan: local, sovereign Windows 11 security console. Unifies Defender, ASR, WFP firewall, App Control, hardening, MHX EDR/XDR, threat intelligence and offline GeoIP/ASN - with a local-only control plane and HMAC-chained evidence ledger. No cloud control plane or silent telemetry. | 最后推送: 2026-11-22T13:50:14Z | 最后更新: 2026-10-29T20:01:04Z</description>
@@ -131948,6 +131990,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:08:05 GMT</lastBuildDate>
   </channel>
 </rss>
