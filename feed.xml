@@ -2,6 +2,118 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: oyesanyf/OshoosiClaw</title>
+      <link>https://github.com/oyesanyf/OshoosiClaw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Autonomous Rust EDR, 7-Ring Cedar AI Agent Containment Mesh, eBPF/ETW Kernel Telemetry &amp; Binary Reverse Engineering Platform | 最后推送: 2026-11-25T15:25:30Z | 最后更新: 2026-11-24T04:24:20Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/OshoosiClaw?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Lafferrr/Mythosaur</title>
+      <link>https://github.com/Lafferrr/Mythosaur</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-25T15:17:38Z | 最后更新: 2026-11-25T16:23:15Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Lafferrr/Mythosaur?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nie2100/40hx-unlock-recovery</title>
+      <link>https://github.com/nie2100/40hx-unlock-recovery</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: CMP 40HX 解锁状态恢复手册（本机实测：算力解锁 + PCIe Gen2 x16） | 最后推送: 2026-11-25T12:52:03Z | 最后更新: 2026-11-25T07:50:56Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nie2100/40hx-unlock-recovery?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: kjm0719/AegisSentinel</title>
+      <link>https://github.com/kjm0719/AegisSentinel</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows 10/11 통합 EDR · 랜섬웨어 방어 · 공급망 DLL 사이드로딩 탐지 · MZK 6단계 심층 백신 (.NET 10 / WPF / ETW) | 最后推送: 2026-11-25T12:41:16Z | 最后更新: 2026-11-25T12:41:22Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kjm0719/AegisSentinel?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: g4bri-3l3/HostBadger</title>
+      <link>https://github.com/g4bri-3l3/HostBadger</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Windows host hardening auditor and remediation tool in PowerShell: CIS, DISA STIG, Essential Eight checks, reversible fixes, optional AI analysis | 最后推送: 2026-11-25T11:28:55Z | 最后更新: 2026-11-20T10:29:29Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/g4bri-3l3/HostBadger?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: kernullist/kndbgx</title>
+      <link>https://github.com/kernullist/kndbgx</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: A WinDbg extension that adds a visual kernel investigation workspace for x64 targets: kernel callbacks, minifilters, driver objects and load history, process and handle cross-views, page and pool permissions, WFP, CPU state, snapshots and file evidence in retained, exportable result tabs. | 最后推送: 2026-11-25T09:41:12Z | 最后更新: 2026-11-25T15:04:18Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/kernullist/kndbgx?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: truckli/infosec-abbrv</title>
+      <link>https://github.com/truckli/infosec-abbrv</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: 网络安全缩略语词表速查手册 | 最后推送: 2026-11-25T08:47:13Z | 最后更新: 2026-11-10T15:01:57Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/truckli/infosec-abbrv?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: GhostTroops/TOP</title>
+      <link>https://github.com/GhostTroops/TOP</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things | 最后推送: 2026-11-25T06:43:17Z | 最后更新: 2026-11-25T03:07:03Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/GhostTroops/TOP?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: J1ezds/some-star</title>
+      <link>https://github.com/J1ezds/some-star</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: github star 分类汇总 | 最后推送: 2026-11-25T06:32:15Z | 最后更新: 2026-11-14T06:42:12Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/J1ezds/some-star?new=1&amp;ts=1795624891</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Ablation-Tool/ablation</title>
+      <link>https://github.com/Ablation-Tool/ablation</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Ablation is an AI-assisted reverse engineering (AIARE) framework | 最后推送: 2026-11-25T06:02:39Z | 最后更新: 2026-11-25T10:05:02Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Ablation-Tool/ablation?new=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Twodragon0/Blog</title>
+      <link>https://github.com/Twodragon0/Blog</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Blog posting | 最后推送: 2026-11-25T05:54:35Z | 最后更新: 2026-11-12T05:41:28Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Twodragon0/Blog?new=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: fauzanlangga/winaudit</title>
+      <link>https://github.com/fauzanlangga/winaudit</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-25T03:56:24Z | 最后更新: 2026-11-25T03:56:28Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/fauzanlangga/winaudit?new=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: drakeaxelrod/drakeaxelrod</title>
+      <link>https://github.com/drakeaxelrod/drakeaxelrod</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Profile Page github repository | 最后推送: 2026-11-25T01:55:19Z | 最后更新: 2026-11-12T01:03:39Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/drakeaxelrod/drakeaxelrod?new=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-25T16:40:42Z | 最后更新: 2026-11-25T09:52:38Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-25T14:20:16Z | 最后更新: 2026-11-25T08:12:00Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: didntchooseaname/loldrivers-database</title>
+      <link>https://github.com/didntchooseaname/loldrivers-database</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: LolDrivers Database is a project based on loldrivers.io with enhanced filtering, searching capabilities as well as a Microsoft drivers blocklist check. | 最后推送: 2026-11-25T08:44:56Z | 最后更新: 2026-11-25T15:35:26Z</description>
+      <pubDate>2026-11-25T16:41:31Z</pubDate>
+      <guid isPermaLink="true">https://github.com/didntchooseaname/loldrivers-database?updated=1&amp;ts=1795624892</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: njuj/driver-guard</title>
       <link>https://github.com/njuj/driver-guard</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Find the kernel drivers on your PC that attackers use to switch off antivirus: LOLDrivers by hash and Authenticode, plus BYOVD-shaped drivers no catalogue lists yet. Read-only, zero dependencies. | 最后推送: 2026-11-25T01:20:58Z | 最后更新: 2026-11-25T01:03:56Z</description>
@@ -132620,6 +132732,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:41:32 GMT</lastBuildDate>
   </channel>
 </rss>
