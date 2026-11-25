@@ -2,6 +2,111 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>BYOVD🚀 新项目: njuj/driver-guard</title>
+      <link>https://github.com/njuj/driver-guard</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Find the kernel drivers on your PC that attackers use to switch off antivirus: LOLDrivers by hash and Authenticode, plus BYOVD-shaped drivers no catalogue lists yet. Read-only, zero dependencies. | 最后推送: 2026-11-25T01:20:58Z | 最后更新: 2026-11-25T01:03:56Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/njuj/driver-guard?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: sardonyx001/awesome-stars</title>
+      <link>https://github.com/sardonyx001/awesome-stars</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: My Awesome List | 最后推送: 2026-11-25T01:01:49Z | 最后更新: 2026-11-12T04:15:57Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/sardonyx001/awesome-stars?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: AkaTorich/BYOVDMonitor</title>
+      <link>https://github.com/AkaTorich/BYOVDMonitor</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: BYOVDMonitor | 最后推送: 2026-11-25T00:32:42Z | 最后更新: 2026-07-26T15:05:51Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/AkaTorich/BYOVDMonitor?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: brucesongs/kali-claw</title>
+      <link>https://github.com/brucesongs/kali-claw</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: kali-claw is a self-evolving security agent from the OpenClaw project. It operates 24/7 on Kali Linux, systematically learning and practicing penetration testing across 49 security domains. It thinks like a hacker — first principles, divergent thinking, assume breach — and acts like a senior engineer: direct, hands-on, results-driven. | 最后推送: 2026-11-24T23:16:48Z | 最后更新: 2026-11-24T22:30:53Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/brucesongs/kali-claw?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: enhansome/enhansome-game-security</title>
+      <link>https://github.com/enhansome/enhansome-game-security</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-24T20:37:41Z | 最后更新: 2026-11-11T17:51:58Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/enhansome/enhansome-game-security?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: nguyentimmy/Defender-XDR-Engineering</title>
+      <link>https://github.com/nguyentimmy/Defender-XDR-Engineering</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Curated library of KQL detection rules, threat hunts, and workbooks for Microsoft Sentinel and Defender XDR — mapped to MITRE ATT&amp;CK and built to catch real-world attacks on identity, endpoint, and email. Includes SOC dashboards for endpoint security, incident response, and digital forensics. | 最后推送: 2026-11-24T20:30:34Z | 最后更新: 2026-11-24T01:50:39Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nguyentimmy/Defender-XDR-Engineering?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: Accenture/cyber-intelligence</title>
+      <link>https://github.com/Accenture/cyber-intelligence</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: This repository hosts the threat intelligence reports that Accenture APEX Labs publishes from Accenture Cyber Intelligence (CI) research into active threats. Each report gives defenders what they need to detect and respond to the threat: indicators of compromise (IOCs), detection rules, network fingerprints and mitigation guidance. | 最后推送: 2026-11-24T18:22:14Z | 最后更新: 2026-11-13T16:21:23Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/Accenture/cyber-intelligence?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: w3bcooki3/WinForensicX</title>
+      <link>https://github.com/w3bcooki3/WinForensicX</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: No description | 最后推送: 2026-11-24T18:20:28Z | 最后更新: 2026-11-07T18:42:02Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/w3bcooki3/WinForensicX?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: oyesanyf/AgentOctopus</title>
+      <link>https://github.com/oyesanyf/AgentOctopus</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Single-binary Rust deterministic agent containment runtime complementing google/agentmesh: AWS Cedar, Wasmtime, OS sandboxes, RT-ASP, universal all-OS kernel patcher &amp; zero-breakout shield, &lt;2ms pre-spawn REA gate, and UnifiedSecurityShield (SBOM + runtime guard). | 最后推送: 2026-11-24T18:02:17Z | 最后更新: 2026-11-22T11:49:14Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/oyesanyf/AgentOctopus?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: magdyalaqil/RCFlCtrl-BYOVD-Analysis</title>
+      <link>https://github.com/magdyalaqil/RCFlCtrl-BYOVD-Analysis</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Reverse engineering and PoC for RCFlCtrl.sys process termination | 最后推送: 2026-11-24T17:57:48Z | 最后更新: 2026-11-24T17:57:52Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/magdyalaqil/RCFlCtrl-BYOVD-Analysis?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD🚀 新项目: BlueShield-Ch4rl13/DetectionLab</title>
+      <link>https://github.com/BlueShield-Ch4rl13/DetectionLab</link>
+      <description>新发现的BYOVD/EDR对抗项目。描述: Catálogo de detecciones en Sigma (detection-as-code), validadas por CI y convertidas a Wazuh/Splunk/Elastic. Verificado con Atomic Red Team, con cobertura MITRE ATT&amp;CK medida y visualizable en Navigator. | 最后推送: 2026-11-24T16:47:23Z | 最后更新: 2026-11-12T15:24:11Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/BlueShield-Ch4rl13/DetectionLab?new=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: gmh5225/awesome-game-security</title>
+      <link>https://github.com/gmh5225/awesome-game-security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: awesome game security [Welcome to PR] | 最后推送: 2026-11-25T01:44:32Z | 最后更新: 2026-11-24T23:42:40Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/gmh5225/awesome-game-security?updated=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: nomi-sec/PoC-in-GitHub</title>
+      <link>https://github.com/nomi-sec/PoC-in-GitHub</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 最后推送: 2026-11-25T00:32:53Z | 最后更新: 2026-11-24T23:45:15Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/nomi-sec/PoC-in-GitHub?updated=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: HotCakeX/Harden-Windows-Security</title>
+      <link>https://github.com/HotCakeX/Harden-Windows-Security</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ | 最后推送: 2026-11-24T18:54:28Z | 最后更新: 2026-11-24T19:59:19Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/HotCakeX/Harden-Windows-Security?updated=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
+      <title>BYOVD📢 更新: mwemuorg/mwemu</title>
+      <link>https://github.com/mwemuorg/mwemu</link>
+      <description>项目有重要更新，可能发布了新版本或添加了新功能。描述: x86 malware emulator | 最后推送: 2026-11-24T11:47:03Z | 最后更新: 2026-11-24T23:42:38Z</description>
+      <pubDate>2026-11-25T01:51:27Z</pubDate>
+      <guid isPermaLink="true">https://github.com/mwemuorg/mwemu?updated=1&amp;ts=1795571487</guid>
+    </item>
+    <item>
       <title>BYOVD🚀 新项目: JasonLn0711/JasonLn0711.github.io</title>
       <link>https://github.com/JasonLn0711/JasonLn0711.github.io</link>
       <description>新发现的BYOVD/EDR对抗项目。描述: Astro-powered personal website and research portfolio for Jason Chia-Sheng Lin, covering trustworthy AI, speech intelligence, cybersecurity, and regulated AI systems. | 最后推送: 2026-11-24T14:50:01Z | 最后更新: 2026-10-27T01:06:07Z</description>
@@ -132515,6 +132620,6 @@
     <link>https://github.com/xiangyuyan0106-spec/my-github-watcher</link>
     <description>监控BYOVD及EDR对抗项目的更新和新出现</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:51:27 GMT</lastBuildDate>
   </channel>
 </rss>
